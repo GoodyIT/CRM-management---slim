@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+PRODID:-//Indeed Inc//Indeed for Employers 1//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+DTSTAMP:20151125T223459Z
+DTSTART:20151127T170059Z
+DTEND:20151127T173059Z
+SUMMARY:Interview with Roland Torres
+UID:7da83a3b59a0e442d3e4d05c5dc0@indeed.com
+ORGANIZER:mailto:kjohnson766+9te@indeedemail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=kjohnson@exchangeadvisers.com:mailto:kjohnson@exchangeadvisers.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=rolandotorres2+kim@indeedemail.com:mailto:rolandotorres2+kim@indeedemail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=rolex.213@hotmail.com:mailto:rolex.213@hotmail.com
+DESCRIPTION:\nLocation)   9518 9th Street #200 (west of Archibald)  Back Right Corner Entrance\, 2nd Floor. Rancho Cucamonga\, 91730\n\nHello Rolando\,\n\nYour interview is scheduled for Friday\, 11/27/2015 at 9am.  Please be on time\, and have a copy of your resume with you.  If it is a good fit\, you will be invited to our PAID Training on Monday\, 11/25/2015.\nWe look forward to meeting you.  Dress for Business\, and be sure to bring Driver's License\, & SS card.\nBe sure to tell the Receptionist that you have a scheduled interview with  ** KEITH **.\n\nOur Address is:  9518 9th Street #200 (2nd building west of Archibald)  Rancho Cucamonga\, CA 91730.\nDRIVE to the BACK RIGHT CORNER of the "County Child Services" building.  Enter through the Tinted Double Doors back there.  Go Left through the open door to the elevator\, then on to the 2nd floor.\n\nBelow is a copy of our ad to remind you of the many benefits of joining our TEAM:\n**********\nOnly Licensed Agents $25k to $50k Base to $120k\n\nHealth Insurance Agents. GUARANTEED $25k-$50k Base + Bonuses = $60k-$120k 1st Yr!\n\nALL IN-OFFICE\, Incoming calls! FREE\, LIVE TRANSFERS of QUALIFIED Prospects!\n\nTired of Commission ONLY Pipe Dreams where You're Taking ALL the RISK?\nTired of Paying HUNDREDS a week in Gas\, Putting THOUSANDS of Miles on Your Car\,\nand HOURS in stressful Traffic?\nTired of OUT-BOUND Cold Calling\, or PAYING So Much for Leads but\, Make Little/NO Profit?\nTired of "Make A Million Dollars Overnight" Phony Promises that YOU Have to PAY to Join?\n\nHURRY! Join the FUTURE of Insurance Sales:\nEVERYTHING is done by Phone\, Computer\, Internet\, Text\, & Email!\n\nSend Resume\, Then CALL Us NOW for an Interview! (909) 646-4264 8am-9pm 7 Days!!!\n\n***** HURRY! ***** PAID Training Class Starts MONDAY!!! *****\n\nHere are the BENEFITS for a Long-Term\, Great-Paying CAREER!\n1. GET HIRED! FULL TIME! 20+ Positions Available so CALL IMMEDIATELY!\n(Tell Your Friends to Call TOO!)\n2. Paid Training - FULL Support to HELP YOU get GOOD at This!\n3. FREE Incoming\, Pre-Qualified LIVE TRANSFER Prospects\nNO OUT-BOUND COLD CALLING!\n4. INSIDE Sales/Customer Srvc. - NO Driving\, CANVASSING\, Door Knocking!\n5. $25k-$35k per Year BASE (Depending on Experience)\n**PLUS** Bonuses & Spiffs = $60k-$120k 1st Year!!!\n6. NON-Captive Agents with Paid Sick & Vacation Time!\n7. Annual Awards & Recognition\, FREE Trip for top producers!\n8. We have Fun! - High-Fiving\, Fast Paced Environment! Breaks = Games\, Table Tennis!\n\nMUST HAVE INSURANCE LICENSE Health or Life&Health. NO EXPERIENCE Required\, AND:\n1. Excellent Phone\, Computer\, & Internet Skills - MS Word\, Email\, Google\, Typing/Data Entry.\n2. Ability to be Committed - Show up on time\, every day\, and have a great work ethic.\n3. Flexible Schedule - Daytime Hours with Possible Overtime (MORE income!) Nov.-Feb.\n4. Have a Positive\, Enthusiastic\, Make-It-Happen Attitude (with NO drama)!\n5. Teachable\, Coach-able\, with a STRONG DESIRE to Compete & Be A Top 10% Producer!\n\nSend Resume\, Then CALL Us NOW for an Interview! (909) 646-4264 8am - 9pm 7 Days!!!\n\n***** HURRY!!! ***** PAID Training Class Starts MONDAY!!! *****\n\nNOTICE! ALSO Hiring NON-Licensed Sales Reps! Search "INSIDE SALES" if Un-Licensed!\n\nLooking For = LICENSED HEALTH OR LIFE & HEALTH AGENTS ONLY!!! Sales\, Customer Service\, Cust. Srvc.\, Sell\, Retail\, Insurance\, Life Insurance\, Health Insurance\, Property & Casualty Agents\, Insurance Agent\, Agency\, Sales Representative\, Sales Rep\, Solar Sales\, Mortgage Sales\, Home Loans\, Real Estate Agents\, Licensed\, License\, Canvasser\, Home Improvement Sales\, Alarm Sales\, Home Based\, Opportunity\, Hourly\, Salary\, Marketing Reps
+LAST-MODIFIED:20151125T223459Z
+LOCATION:9518 9th Street #200 (west of Archibald) Back Right Corner Entrance\, 2nd Floor. Rancho Cucamonga\, 91730
+SEQUENCE:0
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

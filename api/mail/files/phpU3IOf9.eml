@@ -1,0 +1,155 @@
+Received: from CY1PR08MB1738.namprd08.prod.outlook.com (10.162.217.156) by
+ BY2PR08MB1735.namprd08.prod.outlook.com (10.163.45.157) with Microsoft SMTP
+ Server (TLS) id 15.1.415.20 via Mailbox Transport; Sun, 28 Feb 2016 10:45:58
+ +0000
+Received: from BN1PR08CA0047.namprd08.prod.outlook.com (10.242.217.175) by
+ CY1PR08MB1738.namprd08.prod.outlook.com (10.162.217.156) with Microsoft SMTP
+ Server (TLS) id 15.1.415.20; Sun, 28 Feb 2016 10:45:56 +0000
+Received: from BL2FFO11FD017.protection.gbl (2a01:111:f400:7c09::192) by
+ BN1PR08CA0047.outlook.office365.com (2a01:111:e400:16::47) with Microsoft
+ SMTP Server (TLS) id 15.1.415.20 via Frontend Transport; Sun, 28 Feb 2016
+ 10:45:55 +0000
+Received: from cportal7.visa.com (198.241.168.128) by
+ BL2FFO11FD017.mail.protection.outlook.com (10.173.161.35) with Microsoft SMTP
+ Server (TLS) id 15.1.422.5 via Frontend Transport; Sun, 28 Feb 2016 10:45:55
+ +0000
+From: Auto-Receipt <noreply@mail.authorize.net>
+To: David Jackson <djackson@ebrokercenter.com>
+Subject: Summary of Automated Recurring Billing
+Thread-Topic: Summary of Automated Recurring Billing
+Thread-Index: AQHRchU1hRysBkTmrU6alBt7sKMQhQ==
+Date: Sun, 28 Feb 2016 10:45:54 +0000
+Message-ID: <d668a9$9d66q0@cportal7.visa.com>
+Reply-To: David Jackson <djackson@ebrokercenter.com>
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Organization-AuthSource: BL2FFO11FD017.protection.gbl
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-Network-Message-Id: bf661c1d-b032-4592-3470-08d3402c55e8
+X-MS-Exchange-Organization-SCL: 1
+X-MS-TNEF-Correlator:
+received-spf: Pass (protection.outlook.com: domain of mail.authorize.net
+ designates 198.241.168.128 as permitted sender)
+ receiver=protection.outlook.com; client-ip=198.241.168.128;
+ helo=cportal7.visa.com;
+Content-Type: multipart/mixed; boundary="_003_d668a99d66q0cportal7visacom_"
+MIME-Version: 1.0
+
+--_003_d668a99d66q0cportal7visacom_
+Content-Type: text/plain; charset="us-ascii"
+Content-ID: <44E6749AFC4DDF4D91AE0B3430A476CE@namprd08.prod.outlook.com>
+Content-Transfer-Encoding: quoted-printable
+
+
+
+SECURITY STATEMENT=20
+It is not recommended that you ship product(s) or otherwise grant services =
+relying solely upon this e-mail receipt.
+
+GENERAL INFORMATION=20
+Merchant       : E BROKER CENTER INC
+
+ATTACHMENTS=20
+This e-mail contains the following attachments:
+
+Successful.csv
+Reports successfully processed subscriptions.
+
+Failed.csv
+Reports subscriptions that experienced a failed transaction.
+
+
+--_003_d668a99d66q0cportal7visacom_
+Content-Type: application/octet-stream; name="Successful.csv"
+Content-Description: Successful.csv
+Content-Disposition: attachment; filename="Successful.csv"; size=3178;
+	creation-date="Sun, 28 Feb 2016 10:45:59 GMT";
+	modification-date="Sun, 28 Feb 2016 10:45:59 GMT"
+Content-ID: <D513D39D158EDC4787EB91E9C0C81A8C@namprd08.prod.outlook.com>
+Content-Transfer-Encoding: base64
+
+IlN1YnNjcmlwdGlvbklEIiwiU3Vic2NyaXB0aW9uU3RhdHVzIiwiUGF5bWVudCMiLCJUb3RhbFJl
+Y3VycmVuY2VzICIsIlRyYW5zYWN0aW9uSUQiLCJBbW91bnQiLCJDdXJyZW5jeSIsIk1ldGhvZCIs
+IkN1c3RGaXJzdE5hbWUiLCJDdXN0TGFzdE5hbWUiLCJSZXNwQ29kZSIsIlJlc3BUZXh0Ig0KIjI3
+MjE4NzE4IiwiQWN0aXZlIiwiMiIsIjk2IiwiODAyMjY4NjAwMiIsIjkuOTkiLCJVU0QiLCJlQ2hl
+Y2siLCJKdW5pZSIsIkR1cGxhbiIsIjEiLCJUaGlzIHRyYW5zYWN0aW9uIGhhcyBiZWVuIGFwcHJv
+dmVkLiINCiIyNzIxOTM1NyIsIkFjdGl2ZSIsIjIiLCI5NiIsIjgwMjI2ODYxOTUiLCI5Ljk5Iiwi
+VVNEIiwiZUNoZWNrIiwiR2xhZHlzIiwiUnVmZmluIiwiMSIsIlRoaXMgdHJhbnNhY3Rpb24gaGFz
+IGJlZW4gYXBwcm92ZWQuIg0KIjI2ODYyNTA3IiwiQWN0aXZlIiwiMyIsIjk2IiwiODAyMjY3Mzgx
+MiIsIjkuOTkiLCJVU0QiLCJlQ2hlY2siLCJMaW5kYSIsIkJlbGwiLCIxIiwiVGhpcyB0cmFuc2Fj
+dGlvbiBoYXMgYmVlbiBhcHByb3ZlZC4iDQoiMjY4NjQ0ODciLCJBY3RpdmUiLCIzIiwiOTYiLCI4
+MDIyNjc0Mjc4IiwiOS45OSIsIlVTRCIsImVDaGVjayIsIkFtYW5kYSIsIlRoYW1lcyIsIjEiLCJU
+aGlzIHRyYW5zYWN0aW9uIGhhcyBiZWVuIGFwcHJvdmVkLiINCiIyNjg2Mzc4NiIsIkFjdGl2ZSIs
+IjMiLCI5NiIsIjgwMjI2NzQxMTMiLCI5Ljk5IiwiVVNEIiwiZUNoZWNrIiwiTWF0dGhldyIsIkZs
+ZXNjaCIsIjEiLCJUaGlzIHRyYW5zYWN0aW9uIGhhcyBiZWVuIGFwcHJvdmVkLiINCiIyNjg2MDU0
+NCIsIkFjdGl2ZSIsIjMiLCI5NiIsIjgwMjI2NzMyMDEiLCI5Ljk5IiwiVVNEIiwiZUNoZWNrIiwi
+Sm95Y2UiLCJPdG9vIiwiMSIsIlRoaXMgdHJhbnNhY3Rpb24gaGFzIGJlZW4gYXBwcm92ZWQuIg0K
+IjI3MjI2OTM1IiwiQWN0aXZlIiwiMiIsIjk2IiwiODAyMjY4ODk4OSIsIjkuOTkiLCJVU0QiLCJl
+Q2hlY2siLCJCYXJpdXMiLCJMb3BleiIsIjEiLCJUaGlzIHRyYW5zYWN0aW9uIGhhcyBiZWVuIGFw
+cHJvdmVkLiINCiIyNzIyNjU2MiIsIkFjdGl2ZSIsIjIiLCI5NiIsIjgwMjI2ODg3OTUiLCI5Ljk5
+IiwiVVNEIiwiZUNoZWNrIiwiVmVsZGEiLCJKb2huc29uIiwiMSIsIlRoaXMgdHJhbnNhY3Rpb24g
+aGFzIGJlZW4gYXBwcm92ZWQuIg0KIjI2ODU5NDMwIiwiQWN0aXZlIiwiMyIsIjk2IiwiODAyMjY3
+Mjg4NyIsIjkuOTkiLCJVU0QiLCJlQ2hlY2siLCJDcnlzdGFsIiwiSm9obnNvbiIsIjEiLCJUaGlz
+IHRyYW5zYWN0aW9uIGhhcyBiZWVuIGFwcHJvdmVkLiINCiIyNzIxODUyNyIsIkFjdGl2ZSIsIjIi
+LCI5NiIsIjgwMjI2ODU5MzEiLCI5Ljk5IiwiVVNEIiwiZUNoZWNrIiwiVGluYSIsIkhhc3R5Iiwi
+MSIsIlRoaXMgdHJhbnNhY3Rpb24gaGFzIGJlZW4gYXBwcm92ZWQuIg0KIjI3MjE4NTc1IiwiQWN0
+aXZlIiwiMiIsIjk2IiwiODAyMjY4NjAyMiIsIjkuOTkiLCJVU0QiLCJlQ2hlY2siLCJFbHZhIiwi
+UXVpcm96IiwiMSIsIlRoaXMgdHJhbnNhY3Rpb24gaGFzIGJlZW4gYXBwcm92ZWQuIg0KIjI2ODU2
+NzcwIiwiQWN0aXZlIiwiMyIsIjk2IiwiODAyMjY3MjIzMyIsIjkuOTkiLCJVU0QiLCJlQ2hlY2si
+LCJMYSBUb25pYSIsIktpbmciLCIxIiwiVGhpcyB0cmFuc2FjdGlvbiBoYXMgYmVlbiBhcHByb3Zl
+ZC4iDQoiMjY4NjIxMzMiLCJBY3RpdmUiLCIzIiwiOTYiLCI4MDIyNjczNjAyIiwiOS45OSIsIlVT
+RCIsImVDaGVjayIsIkNocmlzdGluYSIsIlJvY2hlbGxlIiwiMSIsIlRoaXMgdHJhbnNhY3Rpb24g
+aGFzIGJlZW4gYXBwcm92ZWQuIg0KIjI2ODY0NDM3IiwiQWN0aXZlIiwiMyIsIjk2IiwiODAyMjY3
+NDI2NCIsIjkuOTkiLCJVU0QiLCJlQ2hlY2siLCJZdm9ubmUiLCJKZWZmZXJzb24iLCIxIiwiVGhp
+cyB0cmFuc2FjdGlvbiBoYXMgYmVlbiBhcHByb3ZlZC4iDQoiMjcyMTc4OTgiLCJBY3RpdmUiLCIy
+IiwiOTYiLCI4MDIyNjg1NjYwIiwiOS45OSIsIlVTRCIsImVDaGVjayIsIlNoZXJyZWwiLCJBZGFt
+cyIsIjEiLCJUaGlzIHRyYW5zYWN0aW9uIGhhcyBiZWVuIGFwcHJvdmVkLiINCiIyNzIxODA2OCIs
+IkFjdGl2ZSIsIjIiLCI5NiIsIjgwMjI2ODU3MDUiLCI5Ljk5IiwiVVNEIiwiZUNoZWNrIiwiU3Vw
+cmluYSIsIkNocmlzdGlhbnNlbiIsIjEiLCJUaGlzIHRyYW5zYWN0aW9uIGhhcyBiZWVuIGFwcHJv
+dmVkLiINCiIyNzIxODEwMCIsIkFjdGl2ZSIsIjIiLCI5NiIsIjgwMjI2ODU3MTkiLCI5Ljk5Iiwi
+VVNEIiwiZUNoZWNrIiwiS2VudCIsIkJyaXRobWFuIiwiMSIsIlRoaXMgdHJhbnNhY3Rpb24gaGFz
+IGJlZW4gYXBwcm92ZWQuIg0KIjI3MjE4NDA1IiwiQWN0aXZlIiwiMiIsIjk2IiwiODAyMjY4NTg2
+OSIsIjkuOTkiLCJVU0QiLCJlQ2hlY2siLCJKb0FubmUiLCJHYXJjaWEiLCIxIiwiVGhpcyB0cmFu
+c2FjdGlvbiBoYXMgYmVlbiBhcHByb3ZlZC4iDQoiMjcyMjM4OTciLCJBY3RpdmUiLCIyIiwiOTYi
+LCI4MDIyNjg3Njk4IiwiOS45OSIsIlVTRCIsImVDaGVjayIsIkFsYW4iLCJDYW5maWVsZCIsIjEi
+LCJUaGlzIHRyYW5zYWN0aW9uIGhhcyBiZWVuIGFwcHJvdmVkLiINCiIyNjg1ODkxMSIsIkFjdGl2
+ZSIsIjMiLCI5NiIsIjgwMjI2NzI3NTIiLCI5Ljk5IiwiVVNEIiwiZUNoZWNrIiwiTWFyZ2FyZXQi
+LCJEdW5uYXdheSIsIjEiLCJUaGlzIHRyYW5zYWN0aW9uIGhhcyBiZWVuIGFwcHJvdmVkLiINCiIy
+Njg2MzE3OCIsIkFjdGl2ZSIsIjMiLCI5NiIsIjgwMjI2NzM5NDciLCI5Ljk5IiwiVVNEIiwiZUNo
+ZWNrIiwiQXVjZW5jaWEiLCJHYXN0ZWx1bSIsIjEiLCJUaGlzIHRyYW5zYWN0aW9uIGhhcyBiZWVu
+IGFwcHJvdmVkLiINCiIyNjg2MjU3NyIsIkFjdGl2ZSIsIjMiLCI5NiIsIjgwMjI2NzM3ODQiLCI5
+Ljk5IiwiVVNEIiwiZUNoZWNrIiwiTWFsY29sbSIsIk1ja2lubmVzIiwiMSIsIlRoaXMgdHJhbnNh
+Y3Rpb24gaGFzIGJlZW4gYXBwcm92ZWQuIg0KIjI2ODY0NTM0IiwiQWN0aXZlIiwiMyIsIjk2Iiwi
+ODAyMjY3NDI4NiIsIjkuOTkiLCJVU0QiLCJlQ2hlY2siLCJTb255YSIsIkRhdmVzIiwiMSIsIlRo
+aXMgdHJhbnNhY3Rpb24gaGFzIGJlZW4gYXBwcm92ZWQuIg0KIjI2ODY0NTYzIiwiQWN0aXZlIiwi
+MyIsIjk2IiwiODAyMjY3NDI5NCIsIjkuOTkiLCJVU0QiLCJlQ2hlY2siLCJSZWEiLCJKb25lcyIs
+IjEiLCJUaGlzIHRyYW5zYWN0aW9uIGhhcyBiZWVuIGFwcHJvdmVkLiINCg==
+
+--_003_d668a99d66q0cportal7visacom_
+Content-Type: application/octet-stream; name="Failed.csv"
+Content-Description: Failed.csv
+Content-Disposition: attachment; filename="Failed.csv"; size=964;
+	creation-date="Sun, 28 Feb 2016 10:45:59 GMT";
+	modification-date="Sun, 28 Feb 2016 10:45:59 GMT"
+Content-ID: <C0ACB3AA36F8A84FBE22BE56CD8C5638@namprd08.prod.outlook.com>
+Content-Transfer-Encoding: base64
+
+IlN1YnNjcmlwdGlvbklEIiwiU3Vic2NyaXB0aW9uU3RhdHVzIiwiUGF5bWVudCMiLCJUb3RhbFJl
+Y3VycmVuY2VzICIsIlRyYW5zYWN0aW9uSUQiLCJBbW91bnQiLCJDdXJyZW5jeSIsIk1ldGhvZCIs
+IkN1c3RGaXJzdE5hbWUiLCJDdXN0TGFzdE5hbWUiLCJSZXNwQ29kZSIsIlJlc3BUZXh0Ig0KIjI2
+ODYwMTU1IiwiQWN0aXZlIiwiMyIsIjk2IiwiKG4vYSkiLCI5Ljk5IiwiVVNEIiwiZUNoZWNrIiwi
+VGVycmFuY2UiLCJQYWxtZXIiLCIxMjgiLCJUaGlzIHRyYW5zYWN0aW9uIGNhbm5vdCBiZSBwcm9j
+ZXNzZWQuIg0KIjI2ODU4NzA5IiwiQWN0aXZlIiwiMyIsIjk2IiwiKG4vYSkiLCI5Ljk5IiwiVVNE
+IiwiZUNoZWNrIiwiRXJpY2EiLCJQaGlsbGlwcyIsIjEyOCIsIlRoaXMgdHJhbnNhY3Rpb24gY2Fu
+bm90IGJlIHByb2Nlc3NlZC4iDQoiMjY4NjQ2MTMiLCJBY3RpdmUiLCIzIiwiOTYiLCIobi9hKSIs
+IjkuOTkiLCJVU0QiLCJlQ2hlY2siLCJNYXR0aGV3IiwiQm9iYml0IiwiMTI4IiwiVGhpcyB0cmFu
+c2FjdGlvbiBjYW5ub3QgYmUgcHJvY2Vzc2VkLiINCiIyNjg1OTkwMyIsIkFjdGl2ZSIsIjMiLCI5
+NiIsIihuL2EpIiwiOS45OSIsIlVTRCIsImVDaGVjayIsIkJldHR5IiwiSG93ZWxsIiwiMTAxIiwi
+VGhlIGdpdmVuIG5hbWUgb24gdGhlIGFjY291bnQgYW5kL29yIHRoZSBhY2NvdW50IHR5cGUgZG9l
+cyBub3QgbWF0Y2ggdGhlIGFjdHVhbCBhY2NvdW50LiINCiIyNjg2NDYwMSIsIkFjdGl2ZSIsIjMi
+LCI5NiIsIihuL2EpIiwiOS45OSIsIlVTRCIsImVDaGVjayIsIlRlcmVzYSIsIk1hc29uIiwiMTI4
+IiwiVGhpcyB0cmFuc2FjdGlvbiBjYW5ub3QgYmUgcHJvY2Vzc2VkLiINCiIyNjg2MjQzOSIsIkFj
+dGl2ZSIsIjMiLCI5NiIsIihuL2EpIiwiOS45OSIsIlVTRCIsImVDaGVjayIsIlJheSIsIkRlc2Vs
+aWNlIiwiMTI4IiwiVGhpcyB0cmFuc2FjdGlvbiBjYW5ub3QgYmUgcHJvY2Vzc2VkLiINCg==
+
+--_003_d668a99d66q0cportal7visacom_--

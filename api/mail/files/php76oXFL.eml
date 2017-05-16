@@ -1,0 +1,77 @@
+Received: from BY2PR08MB1733.namprd08.prod.outlook.com (10.163.45.155) by
+ BY2PR08MB1735.namprd08.prod.outlook.com (10.163.45.157) with Microsoft SMTP
+ Server (TLS) id 15.1.415.20 via Mailbox Transport; Mon, 29 Feb 2016 11:05:56
+ +0000
+Received: from BY2PR08CA0075.namprd08.prod.outlook.com (10.163.62.171) by
+ BY2PR08MB1733.namprd08.prod.outlook.com (10.163.45.155) with Microsoft SMTP
+ Server (TLS) id 15.1.415.20; Mon, 29 Feb 2016 11:05:55 +0000
+Received: from BN1BFFO11FD050.protection.gbl (2a01:111:f400:7c10::1:198) by
+ BY2PR08CA0075.outlook.office365.com (2a01:111:e400:58a4::43) with Microsoft
+ SMTP Server (TLS) id 15.1.415.20 via Frontend Transport; Mon, 29 Feb 2016
+ 11:05:55 +0000
+Received: from cportal7.visa.com (198.241.168.128) by
+ BN1BFFO11FD050.mail.protection.outlook.com (10.58.145.5) with Microsoft SMTP
+ Server (TLS) id 15.1.422.5 via Frontend Transport; Mon, 29 Feb 2016 11:05:54
+ +0000
+From: Auto-Receipt <noreply@mail.authorize.net>
+To: David Jackson <djackson@ebrokercenter.com>
+Subject: ARB Subscription 27240738: Failed transaction
+Thread-Topic: ARB Subscription 27240738: Failed transaction
+Thread-Index: AQHRcuEqL+Yx/D3Vw02LXrFkcwTCtQ==
+Date: Mon, 29 Feb 2016 11:05:50 +0000
+Message-ID: <d668a9$9djvnb@cportal7.visa.com>
+Reply-To: David Jackson <djackson@ebrokercenter.com>
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthSource: BN1BFFO11FD050.protection.gbl
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-Network-Message-Id: b1d8cd4e-e216-4356-ddb2-08d340f84b1d
+X-MS-TNEF-Correlator:
+received-spf: Pass (protection.outlook.com: domain of mail.authorize.net
+ designates 198.241.168.128 as permitted sender)
+ receiver=protection.outlook.com; client-ip=198.241.168.128;
+ helo=cportal7.visa.com;
+Content-Type: text/plain; charset="us-ascii"
+Content-ID: <FE4D090C24919049918C3A7CFA5310EB@namprd08.prod.outlook.com>
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+The current transaction for your ARB subscription 27240738 has failed. See =
+the TRANSACTION RESULTS section below for details.
+
+SECURITY STATEMENT
+It is not recommended that you ship product(s) or otherwise grant services =
+relying solely upon this e-mail receipt.
+
+GENERAL INFORMATION
+Merchant       : E BROKER CENTER INC
+
+RECURRING TRANSACTION INFORMATION
+Subscription ID: 27240738
+Status         : Active
+Transaction    : 2 of 96
+Invoice        : YBV20160129
+Amount         : 9.99 (USD)
+Payment Method : eCheck
+
+TRANSACTION RESULTS
+Response       : The given name on the account and/or the account type does=
+ not match the actual account.
+Reason         : 101
+Transaction ID : 0
+
+CUSTOMER BILLING INFORMATION
+Customer ID    : 20160129163053-wcvb
+First Name     : Lesia
+Last Name      : Draper
+Company        :
+Address        :
+City           :
+State/Province :
+Zip/Postal Code:
+Country        :
+Phone          : (276) 252-1408
+Fax            :
+E-mail         : lesiadraper@24hourmail.net
+
+
+

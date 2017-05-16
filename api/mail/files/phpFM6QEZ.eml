@@ -1,0 +1,76 @@
+Received: from BY2PR08MB1733.namprd08.prod.outlook.com (10.163.45.155) by
+ BY2PR08MB1735.namprd08.prod.outlook.com (10.163.45.157) with Microsoft SMTP
+ Server (TLS) id 15.1.415.20 via Mailbox Transport; Mon, 29 Feb 2016 11:03:07
+ +0000
+Received: from BN1PR08CA0039.namprd08.prod.outlook.com (10.242.217.167) by
+ BY2PR08MB1733.namprd08.prod.outlook.com (10.163.45.155) with Microsoft SMTP
+ Server (TLS) id 15.1.415.20; Mon, 29 Feb 2016 11:03:06 +0000
+Received: from BN1BFFO11FD035.protection.gbl (2a01:111:f400:7c10::1:174) by
+ BN1PR08CA0039.outlook.office365.com (2a01:111:e400:16::39) with Microsoft
+ SMTP Server (TLS) id 15.1.415.20 via Frontend Transport; Mon, 29 Feb 2016
+ 11:03:06 +0000
+Received: from cportal8.visa.com (198.241.168.129) by
+ BN1BFFO11FD035.mail.protection.outlook.com (10.58.144.98) with Microsoft SMTP
+ Server (TLS) id 15.1.422.5 via Frontend Transport; Mon, 29 Feb 2016 11:03:04
+ +0000
+From: Auto-Receipt <noreply@mail.authorize.net>
+To: David Jackson <djackson@ebrokercenter.com>
+Subject: ARB Subscription 27231375: Failed transaction
+Thread-Topic: ARB Subscription 27231375: Failed transaction
+Thread-Index: AQHRcuDEpvxokUym7EqAoV4R5X6t1g==
+Date: Mon, 29 Feb 2016 11:03:04 +0000
+Message-ID: <f1c1d7$9dl9r7@cportal8.visa.com>
+Reply-To: David Jackson <djackson@ebrokercenter.com>
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthSource: BN1BFFO11FD035.protection.gbl
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-Network-Message-Id: 45c6c3cc-bb85-4e0c-529b-08d340f7e650
+X-MS-TNEF-Correlator:
+received-spf: Pass (protection.outlook.com: domain of mail.authorize.net
+ designates 198.241.168.129 as permitted sender)
+ receiver=protection.outlook.com; client-ip=198.241.168.129;
+ helo=cportal8.visa.com;
+Content-Type: text/plain; charset="us-ascii"
+Content-ID: <03F17326424EAB4B94A00071DB4B8B73@namprd08.prod.outlook.com>
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+The current transaction for your ARB subscription 27231375 has failed. See =
+the TRANSACTION RESULTS section below for details.
+
+SECURITY STATEMENT
+It is not recommended that you ship product(s) or otherwise grant services =
+relying solely upon this e-mail receipt.
+
+GENERAL INFORMATION
+Merchant       : E BROKER CENTER INC
+
+RECURRING TRANSACTION INFORMATION
+Subscription ID: 27231375
+Status         : Active
+Transaction    : 2 of 96
+Invoice        : MLS20160129
+Amount         : 9.99 (USD)
+Payment Method : eCheck
+
+TRANSACTION RESULTS
+Response       : This transaction cannot be processed.
+Reason         : 128
+Transaction ID : 0
+
+CUSTOMER BILLING INFORMATION
+Customer ID    : 20160125162435-PRkU
+First Name     : Andre
+Last Name      : Falconer
+Company        :
+Address        :
+City           :
+State/Province :
+Zip/Postal Code:
+Country        :
+Phone          : (708) 534-5922
+Fax            :
+E-mail         : flyfalconer@yahoo.com
+
+
+

@@ -1,0 +1,12 @@
+{
+	"require": {
+		"calcinai/xero-php": "1.2.*",
+		"stripe/stripe-php": "1.*",
+		"slim/slim": "2.*",
+		"ua-parser/uap-php": "dev-master" ,
+		"twilio/sdk": "4.2.1",
+		"phpmailer/phpmailer": "~5.2",
+		"mailgun/mailgun-php": "~1.7.2",
+		"firebase/token-generator": "^3.0"
+	}
+}

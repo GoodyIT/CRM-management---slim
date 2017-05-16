@@ -1,0 +1,79 @@
+Received: from SN1PR08MB1744.namprd08.prod.outlook.com (10.162.133.158) by
+ BLUPR08MB1730.namprd08.prod.outlook.com (10.162.225.156) with Microsoft SMTP
+ Server (TLS) id 15.1.453.26 via Mailbox Transport; Thu, 7 Apr 2016 09:40:43
+ +0000
+Received: from BN1PR08CA0025.namprd08.prod.outlook.com (10.242.217.153) by
+ SN1PR08MB1744.namprd08.prod.outlook.com (10.162.133.158) with Microsoft SMTP
+ Server (TLS) id 15.1.447.15; Thu, 7 Apr 2016 09:40:41 +0000
+Received: from BY2FFO11FD007.protection.gbl (2a01:111:f400:7c0c::132) by
+ BN1PR08CA0025.outlook.office365.com (2a01:111:e400:16::25) with Microsoft
+ SMTP Server (TLS) id 15.1.453.26 via Frontend Transport; Thu, 7 Apr 2016
+ 09:40:41 +0000
+Received: from cportal6.visa.com (198.241.162.56) by
+ BY2FFO11FD007.mail.protection.outlook.com (10.1.14.128) with Microsoft SMTP
+ Server (TLS) id 15.1.453.6 via Frontend Transport; Thu, 7 Apr 2016 09:40:39
+ +0000
+From: Auto-Receipt <noreply@mail.authorize.net>
+To: David Jackson <djackson@ebrokercenter.com>
+Subject: ARB Subscription 27003888: Failed transaction
+Thread-Topic: ARB Subscription 27003888: Failed transaction
+Thread-Index: AQHRkLGNtA6JnoWmDEeCVrVcBU/uOg==
+Date: Thu, 7 Apr 2016 09:40:09 +0000
+Message-ID: <b71154$a2829c@cportal6.visa.com>
+Reply-To: David Jackson <djackson@ebrokercenter.com>
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Organization-AuthSource: BY2FFO11FD007.protection.gbl
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-Network-Message-Id: 084b919e-d798-4627-2802-08d35ec8ae8f
+X-MS-Exchange-Organization-SCL: 1
+X-MS-TNEF-Correlator:
+received-spf: Pass (protection.outlook.com: domain of mail.authorize.net
+ designates 198.241.162.56 as permitted sender)
+ receiver=protection.outlook.com; client-ip=198.241.162.56;
+ helo=cportal6.visa.com;
+Content-Type: text/plain; charset="us-ascii"
+Content-ID: <3B8E1A0997335245866FA5A311A81890@namprd08.prod.outlook.com>
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+The current transaction for your ARB subscription 27003888 has failed. See =
+the TRANSACTION RESULTS section below for details.
+
+SECURITY STATEMENT
+It is not recommended that you ship product(s) or otherwise grant services =
+relying solely upon this e-mail receipt.
+
+GENERAL INFORMATION=20
+Merchant       : E BROKER CENTER INC
+
+RECURRING TRANSACTION INFORMATION=20
+Subscription ID: 27003888
+Status         : Active
+Transaction    : 4 of 96
+Invoice        : MXM20160107
+Amount         : 9.99 (USD)
+Payment Method : eCheck
+
+TRANSACTION RESULTS=20
+Response       : The given name on the account and/or the account type does=
+ not match the actual account.
+Reason         : 101
+Transaction ID : 0
+
+CUSTOMER BILLING INFORMATION=20
+Customer ID    : 20160107134044-g1zB
+First Name     : Mary
+Last Name      : Cosby
+Company        :=20
+Address        :=20
+City           :=20
+State/Province :=20
+Zip/Postal Code:=20
+Country        :=20
+Phone          : (318) 371-6751
+Fax            :=20
+E-mail         : mary.cosby71055@24hour.net
+
+
+

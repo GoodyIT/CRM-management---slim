@@ -1,0 +1,76 @@
+Received: from BLUPR08MB1730.namprd08.prod.outlook.com (10.162.225.156) by
+ BY2PR08MB1735.namprd08.prod.outlook.com (10.163.45.157) with Microsoft SMTP
+ Server (TLS) id 15.1.415.20 via Mailbox Transport; Mon, 29 Feb 2016 10:49:18
+ +0000
+Received: from CY1PR08CA0012.namprd08.prod.outlook.com (10.163.94.150) by
+ BLUPR08MB1730.namprd08.prod.outlook.com (10.162.225.156) with Microsoft SMTP
+ Server (TLS) id 15.1.415.20; Mon, 29 Feb 2016 10:49:18 +0000
+Received: from BN1AFFO11FD037.protection.gbl (2a01:111:f400:7c10::118) by
+ CY1PR08CA0012.outlook.office365.com (2a01:111:e400:5291::22) with Microsoft
+ SMTP Server (TLS) id 15.1.415.20 via Frontend Transport; Mon, 29 Feb 2016
+ 10:49:17 +0000
+Received: from cportal7.visa.com (198.241.168.128) by
+ BN1AFFO11FD037.mail.protection.outlook.com (10.58.52.241) with Microsoft SMTP
+ Server (TLS) id 15.1.422.5 via Frontend Transport; Mon, 29 Feb 2016 10:49:16
+ +0000
+From: Auto-Receipt <noreply@mail.authorize.net>
+To: David Jackson <djackson@ebrokercenter.com>
+Subject: ARB Subscription 26876564: Failed transaction
+Thread-Topic: ARB Subscription 26876564: Failed transaction
+Thread-Index: AQHRct7XkU6JXU7SEU6N56on0Zgd8Q==
+Date: Mon, 29 Feb 2016 10:49:16 +0000
+Message-ID: <d668a9$9djocb@cportal7.visa.com>
+Reply-To: David Jackson <djackson@ebrokercenter.com>
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthSource: BN1AFFO11FD037.protection.gbl
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-Network-Message-Id: d68b6f0b-30df-4e25-b505-08d340f5f883
+X-MS-TNEF-Correlator:
+received-spf: Pass (protection.outlook.com: domain of mail.authorize.net
+ designates 198.241.168.128 as permitted sender)
+ receiver=protection.outlook.com; client-ip=198.241.168.128;
+ helo=cportal7.visa.com;
+Content-Type: text/plain; charset="us-ascii"
+Content-ID: <958C08237A27A942AA2E1BAB93271D76@namprd08.prod.outlook.com>
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+The current transaction for your ARB subscription 26876564 has failed. See =
+the TRANSACTION RESULTS section below for details.
+
+SECURITY STATEMENT
+It is not recommended that you ship product(s) or otherwise grant services =
+relying solely upon this e-mail receipt.
+
+GENERAL INFORMATION
+Merchant       : E BROKER CENTER INC
+
+RECURRING TRANSACTION INFORMATION
+Subscription ID: 26876564
+Status         : Active
+Transaction    : 3 of 96
+Invoice        : DPT20151229
+Amount         : 9.99 (USD)
+Payment Method : eCheck
+
+TRANSACTION RESULTS
+Response       : This transaction cannot be processed.
+Reason         : 128
+Transaction ID : 0
+
+CUSTOMER BILLING INFORMATION
+Customer ID    : 20151221082656-KrE3
+First Name     : Deborah
+Last Name      : Bogan
+Company        :
+Address        :
+City           :
+State/Province :
+Zip/Postal Code:
+Country        :
+Phone          : (215) 941-1656
+Fax            :
+E-mail         : deborahbogan19111@24hourmail.net
+
+
+

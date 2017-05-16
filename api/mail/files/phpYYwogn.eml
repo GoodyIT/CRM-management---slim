@@ -1,0 +1,59 @@
+Received: from BLUPR0801MB1508.namprd08.prod.outlook.com (10.163.122.23) by
+ CY1PR0801MB1514.namprd08.prod.outlook.com (10.163.142.21) with Microsoft SMTP
+ Server (TLS) id 15.1.355.16 via Mailbox Transport; Tue, 15 Dec 2015 10:01:39
+ +0000
+Received: from BL2PR08CA0026.namprd08.prod.outlook.com (10.255.170.144) by
+ BLUPR0801MB1508.namprd08.prod.outlook.com (10.163.122.23) with Microsoft SMTP
+ Server (TLS) id 15.1.355.16; Tue, 15 Dec 2015 10:01:38 +0000
+Received: from BN1AFFO11OLC002.protection.gbl (2a01:111:f400:7c10::167) by
+ BL2PR08CA0026.outlook.office365.com (2a01:111:e400:c4b::16) with Microsoft
+ SMTP Server (TLS) id 15.1.355.16 via Frontend Transport; Tue, 15 Dec 2015
+ 10:01:38 +0000
+Received: from mail-p2.stripe.com (166.78.69.60) by
+ BN1AFFO11OLC002.mail.protection.outlook.com (10.58.53.73) with Microsoft SMTP
+ Server id 15.1.346.13 via Frontend Transport; Tue, 15 Dec 2015 10:01:38 +0000
+Received: by luna.mailgun.net with HTTP; Tue, 15 Dec 2015 10:01:32 +0000
+From: Stripe Disputes <support@stripe.com>
+To: "info@ebrokercenter.com" <info@ebrokercenter.com>
+Subject: Reminder: Evidence is due soon for the dispute on charge
+ ch_16sgfUDchUejWJZTuHaKuIGy
+Thread-Topic: Reminder: Evidence is due soon for the dispute on charge
+ ch_16sgfUDchUejWJZTuHaKuIGy
+Thread-Index: AQHRNx+Xwh6A2BoY8ECpNzgTxvi+Yw==
+Date: Tue, 15 Dec 2015 10:01:32 +0000
+Message-ID: <566fe4fcb0a4_6c6dd51330319ab@hurricane4.northwest.stripe.io.mail>
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Organization-AuthSource: BN1AFFO11OLC002.protection.gbl
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-Network-Message-Id: 506f6c82-35c7-4a81-39a1-08d30536b94c
+X-MS-TNEF-Correlator:
+received-spf: Pass (protection.outlook.com: domain of stripe.com designates
+ 166.78.69.60 as permitted sender) receiver=protection.outlook.com;
+ client-ip=166.78.69.60; helo=mail-p2.stripe.com;
+Content-Type: text/plain; charset="utf-8"
+Content-ID: <AE0D3243D6AA5F439B935E80D6DE4D78@namprd08.prod.outlook.com>
+Content-Transfer-Encoding: base64
+MIME-Version: 1.0
+
+RXZpZGVuY2UgZm9yIHRoZSBkaXNwdXRlIG9uIGNoYXJnZSBjaF8xNnNnZlVEY2hVZWpXSlpUdUhh
+S3VJR3kgKG1hZGUgdGhyb3VnaCB5b3VyIEUgQnJva2VyIENlbnRlciBhY2NvdW50IE9jdG9iZXIg
+MDUsIDIwMTUgKFVUQykpIGlzIGR1ZSBieSBEZWNlbWJlciAxNywgMjAxNSAoVVRDKS4NCg0KDQpU
+aGUgZ29vZCBuZXdzIGlzIHRoYXQgeW91IHN0aWxsIGhhdmUgYSBjaGFuY2UgdG8gcmVzb2x2ZSB0
+aGUgZGlzcHV0ZSBhbmQgcmVjZWl2ZSB0aGUgYW1vdW50IGFuZCBmZWUgYmFjay4gWW91IGNhbiB2
+aWV3IGFsbCBvZiB0aGUgZGV0YWlscyBhYm91dCB0aGUgZGlzcHV0ZWQgcGF5bWVudCBhbmQgaW5z
+dHJ1Y3Rpb25zIGZvciBob3cgdG8gcHJvY2VlZCBmcm9tIHRoZSBkYXNoYm9hcmQgb2YgeW91ciBF
+IEJyb2tlciBDZW50ZXIgYWNjb3VudDoNCiBodHRwczovL2Rhc2hib2FyZC5zdHJpcGUuY29tL3Bh
+eW1lbnRzL2NoXzE2c2dmVURjaFVlaldKWlR1SGFLdUlHeQ0KDQoNCg0KRGlzcHV0ZXMgYXJlIGhh
+bmRsZWQgYnkgdGhlIGNhcmRob2xkZXIncyBiYW5rLCBzbyB3ZSBkb24ndCBrbm93IHNwZWNpZmlj
+YWxseSBob3cgdGhpcyBkaXNwdXRlIHdpbGwgYmUgcmVzb2x2ZWQuIEhvd2V2ZXIsIHdlIGRvIHdh
+bnQgeW91IHRvIGhhdmUgdGhlIGJlc3QgcG9zc2libGUgY2hhbmNlIG9mIHdpbm5pbmcgdGhpcyBk
+aXNwdXRlLCBzbyB3ZSd2ZSBwdXQgdG9nZXRoZXIgZGV0YWlsZWQgZG9jdW1lbnRhdGlvbiB0aGF0
+IGNhbiBiZSBoZWxwZnVsIGluIHVuZGVyc3RhbmRpbmcgYW5kIHJlc3BvbmRpbmcgdG8gZGlzcHV0
+ZXM6DQoNCiAgIGh0dHBzOi8vc3RyaXBlLmNvbS9oZWxwL2Rpc3B1dGVzLW92ZXJ2aWV3DQoNCllv
+dSBjYW4gYWxzbyByZWFkIGEgYml0IGFib3V0IGhvdyB3ZSByZWNvbW1lbmQgcmVzcG9uZGluZyB0
+byB0aGlzIHNwZWNpZmljIHR5cGUgb2YgZGlzcHV0ZToNCg0KICAgaHR0cHM6Ly9zdXBwb3J0LnN0
+cmlwZS5jb20vcXVlc3Rpb25zL2Rpc3B1dGUtZnJhdWR1bGVudC1ldmlkZW5jZQ0KDQpXZSB1bmRl
+cnN0YW5kIHRoYXQgdGhpcyBjYW4gYmUgZnJ1c3RyYXRpbmcsIGFuZCB3ZSdyZSBoZXJlIHRvIGhl
+bHAgaW4gYW55IHdheSBwb3NzaWJsZS4gSWYgeW91IGhhdmUgYW55IHF1ZXN0aW9ucywgcGxlYXNl
+IGxldCB1cyBrbm93IHJpZ2h0IGF3YXkhDQoNCllvdXJzLA0KDQpUaGUgU3RyaXBlIFRlYW0NCg==

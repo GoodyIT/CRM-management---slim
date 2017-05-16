@@ -1,0 +1,76 @@
+Received: from SN1PR08MB1742.namprd08.prod.outlook.com (10.162.133.156) by
+ BY2PR08MB1735.namprd08.prod.outlook.com (10.163.45.157) with Microsoft SMTP
+ Server (TLS) id 15.1.415.20 via Mailbox Transport; Mon, 29 Feb 2016 11:03:11
+ +0000
+Received: from BN1PR08CA0025.namprd08.prod.outlook.com (10.242.217.153) by
+ SN1PR08MB1742.namprd08.prod.outlook.com (10.162.133.156) with Microsoft SMTP
+ Server (TLS) id 15.1.415.20; Mon, 29 Feb 2016 11:03:09 +0000
+Received: from BY2FFO11FD040.protection.gbl (2a01:111:f400:7c0c::114) by
+ BN1PR08CA0025.outlook.office365.com (2a01:111:e400:16::25) with Microsoft
+ SMTP Server (TLS) id 15.1.415.20 via Frontend Transport; Mon, 29 Feb 2016
+ 11:03:09 +0000
+Received: from cportal7.visa.com (198.241.168.128) by
+ BY2FFO11FD040.mail.protection.outlook.com (10.1.14.225) with Microsoft SMTP
+ Server (TLS) id 15.1.422.5 via Frontend Transport; Mon, 29 Feb 2016 11:03:08
+ +0000
+From: Auto-Receipt <noreply@mail.authorize.net>
+To: David Jackson <djackson@ebrokercenter.com>
+Subject: ARB Subscription 27231641: Failed transaction
+Thread-Topic: ARB Subscription 27231641: Failed transaction
+Thread-Index: AQHRcuDHt9DvU57iD0mrLSsbbabVNw==
+Date: Mon, 29 Feb 2016 11:03:07 +0000
+Message-ID: <d668a9$9djubk@cportal7.visa.com>
+Reply-To: David Jackson <djackson@ebrokercenter.com>
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthSource: BY2FFO11FD040.protection.gbl
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-Network-Message-Id: 3d88cd3f-91a0-43ec-01f6-08d340f7e83e
+X-MS-TNEF-Correlator:
+received-spf: Pass (protection.outlook.com: domain of mail.authorize.net
+ designates 198.241.168.128 as permitted sender)
+ receiver=protection.outlook.com; client-ip=198.241.168.128;
+ helo=cportal7.visa.com;
+Content-Type: text/plain; charset="us-ascii"
+Content-ID: <5EA67770A4343541B957B47421119F45@namprd08.prod.outlook.com>
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+The current transaction for your ARB subscription 27231641 has failed. See =
+the TRANSACTION RESULTS section below for details.
+
+SECURITY STATEMENT
+It is not recommended that you ship product(s) or otherwise grant services =
+relying solely upon this e-mail receipt.
+
+GENERAL INFORMATION
+Merchant       : E BROKER CENTER INC
+
+RECURRING TRANSACTION INFORMATION
+Subscription ID: 27231641
+Status         : Active
+Transaction    : 2 of 96
+Invoice        : JSP20160129
+Amount         : 9.99 (USD)
+Payment Method : eCheck
+
+TRANSACTION RESULTS
+Response       : This transaction cannot be processed.
+Reason         : 128
+Transaction ID : 0
+
+CUSTOMER BILLING INFORMATION
+Customer ID    : 20160126173438-e5GK
+First Name     : Kellie
+Last Name      : Storie
+Company        :
+Address        :
+City           :
+State/Province :
+Zip/Postal Code:
+Country        :
+Phone          : (405) 481-0981
+Fax            :
+E-mail         : kellgibb1@yahoo.com
+
+
+

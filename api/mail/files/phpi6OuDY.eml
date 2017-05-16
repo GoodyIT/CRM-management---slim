@@ -1,0 +1,288 @@
+Received: from BLUPR08MB1730.namprd08.prod.outlook.com (10.162.225.156) by
+ BLUPR08MB1730.namprd08.prod.outlook.com (10.162.225.156) with Microsoft SMTP
+ Server (TLS) id 15.1.361.13 via Mailbox Transport; Sat, 19 Dec 2015 12:07:57
+ +0000
+Received: from BY2PR08CA0004.namprd08.prod.outlook.com (10.163.62.142) by
+ BLUPR08MB1730.namprd08.prod.outlook.com (10.162.225.156) with Microsoft SMTP
+ Server (TLS) id 15.1.361.13; Sat, 19 Dec 2015 12:07:55 +0000
+Received: from BY2FFO11FD015.protection.gbl (2a01:111:f400:7c0c::148) by
+ BY2PR08CA0004.outlook.office365.com (2a01:111:e400:58a4::14) with Microsoft
+ SMTP Server (TLS) id 15.1.361.13 via Frontend Transport; Sat, 19 Dec 2015
+ 12:07:55 +0000
+Received: from o1.email.primecontact.ca (50.31.54.164) by
+ BY2FFO11FD015.mail.protection.outlook.com (10.1.14.131) with Microsoft SMTP
+ Server (TLS) id 15.1.355.15 via Frontend Transport; Sat, 19 Dec 2015 12:07:53
+ +0000
+Received: by filter0055p1las1.sendgrid.net with SMTP id filter0055p1las1.8567.567548971C
+        2015-12-19 12:07:51.894957579 +0000 UTC
+Received: from manage.ivr-platform.com (42.4d.c0ad.ip4.static.sl-reverse.com [173.192.77.66])
+	by ismtpd0008p1las1.sendgrid.net (SG) with ESMTP id reRtZqhVQxSFx0dKRNFVvg
+	Sat, 19 Dec 2015 12:07:51.747 +0000 (UTC)
+From: "support@eleadgen.com" <support@eleadgen.com>
+To: David Jackson <djackson@ebrokercenter.com>
+Subject: 11485019 Account Xfers for 2015-12-18
+Thread-Topic: 11485019 Account Xfers for 2015-12-18
+Thread-Index: AQHROlXmWdmwYAf9OUqvrAToNvaHPw==
+Date: Sat, 19 Dec 2015 12:07:51 +0000
+Message-ID: <reRtZqhVQxSFx0dKRNFVvg@ismtpd0008p1las1.sendgrid.net>
+List-Unsubscribe: <http://sent.straticsnetworks.com/wf/unsubscribe?upn=iM7ajgtlA1x8smCiUohtSOqkb3H4rF95eJtG47FD37NwHGk-2FIOYei2syFMSG1w7NDuHrO0Is7UiUJBewBE60GiyPUZr9KruT-2BPPqyv9GabgYkMcQNRZpW0RganHqjDdjok124gs7SUYlA0PW-2Fz5-2F9xiZxgqpjBhBBVbCNRCSQ7d9sPyfMrinYoMbwgB8ciliFJipaFYJCsCZoA1zCGWgGOi-2Fi-2BEOv4Zjuz7Cko373E0-3D>,
+ <mailto:unsubscribe@sent.straticsnetworks.com?subject=http://sent.straticsnetworks.com/wf/unsubscribe*q*upn=iM7ajgtlA1x8smCiUohtSOqkb3H4rF95eJtG47FD37NwHGk-2FIOYei2syFMSG1w7NDuHrO0Is7UiUJBewBE60GiyPUZr9KruT-2BPPqyv9GabgYkMcQNRZpW0RganHqjDdjok124gs7SUYlA0PW-2Fz5-2F9xiZxgqpjBhBBVbCNRCSQ7d9sPyfMrinYoMbwgB8ciliFJipaFYJCsCZoA1zCGWgGOi-2Fi-2BEOv4Zjuz7Cko373E0-3D>
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Organization-AuthSource: BY2FFO11FD015.protection.gbl
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-Network-Message-Id: 23b3d5c1-fed4-4a62-870c-08d3086d0695
+X-MS-Exchange-Organization-SCL: 1
+X-MS-TNEF-Correlator:
+received-spf: Pass (protection.outlook.com: domain of
+ sent.straticsnetworks.com designates 50.31.54.164 as permitted sender)
+ receiver=protection.outlook.com; client-ip=50.31.54.164;
+ helo=o1.email.primecontact.ca;
+Content-Type: multipart/alternative;
+	boundary="_000_reRtZqhVQxSFx0dKRNFVvgismtpd0008p1las1sendgridnet_"
+MIME-Version: 1.0
+
+--_000_reRtZqhVQxSFx0dKRNFVvgismtpd0008p1las1sendgridnet_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Dear customer, The following are xfer stats broken down by campaign.
+CampID  CampName        Xfers   Cost    CPX
+65392   V - AL  94      97.7244 1.04
+65396   V - FL  141     191.1576        1.36
+65397   V - GA  109     170.4276        1.56
+65398   V - IL  145     183.3540        1.26
+65400   V - KS  12      18.7404 1.56
+65401   V - LA  198     165.4176        0.84
+65402   V - MS  176     159.5592        0.91
+65403   V - MO  187     230.3436        1.23
+65404   V - MT  9       49.0980 5.46
+65405   V - NE  23      101.9988        4.43
+65406   V - NC  184     202.2840        1.10
+65408   V - OH  146     208.2420        1.43
+65409   V - OK  72      185.5944        2.58
+65410   V - PA  177     264.0648        1.49
+65411   V - SC  112     97.1256 0.87
+65414   V - TN  106     155.2452        1.46
+65415   V - TX  209     276.5424        1.32
+65416   V - VA  74      114.0588        1.54
+65417   V - WI  62      98.2680 1.58
+65421   V - MI  138     181.2408        1.31
+65881   V - AZ  75      212.5488        2.83
+68467   V - NV  53      84.4068 1.59
+
+
+
+
+
+If you'd like to unsubscribe and stop receiving these important notices cli=
+ck here<http://sent.straticsnetworks.com/wf/unsubscribe?upn=3DiM7ajgtlA1x8s=
+mCiUohtSOqkb3H4rF95eJtG47FD37NwHGk-2FIOYei2syFMSG1w7NDuHrO0Is7UiUJBewBE60Gl=
+wNmS8spcDVZKZmN-2Bzj8vRZSLLF24n6YZ5U2svbaCG0tC8SsoJJ1uC0CHjSZP4stAXULmSuogW=
+F46KAsvC2oPIuk6Z5STIsCbdoyhzCsFFKOpIXItEMsWQRJ1iHhGCG7bK5lR631CCmt-2B3s66Cx=
+q2c-3D>.
+
+
+
+--_000_reRtZqhVQxSFx0dKRNFVvgismtpd0008p1las1sendgridnet_
+Content-Type: text/html; charset="us-ascii"
+Content-ID: <BFC048FD86370945B23B48E92BF80BA8@namprd08.prod.outlook.com>
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+</head>
+<body>
+Dear customer, The following are xfer stats broken down by campaign.
+<table>
+<thead>
+<tr>
+<th>CampID</th>
+<th>CampName</th>
+<th>Xfers</th>
+<th>Cost</th>
+<th>CPX</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th>65392</th>
+<th>V - AL</th>
+<th>94</th>
+<th>97.7244</th>
+<th>1.04</th>
+</tr>
+<tr>
+<th>65396</th>
+<th>V - FL</th>
+<th>141</th>
+<th>191.1576</th>
+<th>1.36</th>
+</tr>
+<tr>
+<th>65397</th>
+<th>V - GA</th>
+<th>109</th>
+<th>170.4276</th>
+<th>1.56</th>
+</tr>
+<tr>
+<th>65398</th>
+<th>V - IL</th>
+<th>145</th>
+<th>183.3540</th>
+<th>1.26</th>
+</tr>
+<tr>
+<th>65400</th>
+<th>V - KS</th>
+<th>12</th>
+<th>18.7404</th>
+<th>1.56</th>
+</tr>
+<tr>
+<th>65401</th>
+<th>V - LA</th>
+<th>198</th>
+<th>165.4176</th>
+<th>0.84</th>
+</tr>
+<tr>
+<th>65402</th>
+<th>V - MS</th>
+<th>176</th>
+<th>159.5592</th>
+<th>0.91</th>
+</tr>
+<tr>
+<th>65403</th>
+<th>V - MO</th>
+<th>187</th>
+<th>230.3436</th>
+<th>1.23</th>
+</tr>
+<tr>
+<th>65404</th>
+<th>V - MT</th>
+<th>9</th>
+<th>49.0980</th>
+<th>5.46</th>
+</tr>
+<tr>
+<th>65405</th>
+<th>V - NE</th>
+<th>23</th>
+<th>101.9988</th>
+<th>4.43</th>
+</tr>
+<tr>
+<th>65406</th>
+<th>V - NC</th>
+<th>184</th>
+<th>202.2840</th>
+<th>1.10</th>
+</tr>
+<tr>
+<th>65408</th>
+<th>V - OH</th>
+<th>146</th>
+<th>208.2420</th>
+<th>1.43</th>
+</tr>
+<tr>
+<th>65409</th>
+<th>V - OK</th>
+<th>72</th>
+<th>185.5944</th>
+<th>2.58</th>
+</tr>
+<tr>
+<th>65410</th>
+<th>V - PA</th>
+<th>177</th>
+<th>264.0648</th>
+<th>1.49</th>
+</tr>
+<tr>
+<th>65411</th>
+<th>V - SC</th>
+<th>112</th>
+<th>97.1256</th>
+<th>0.87</th>
+</tr>
+<tr>
+<th>65414</th>
+<th>V - TN</th>
+<th>106</th>
+<th>155.2452</th>
+<th>1.46</th>
+</tr>
+<tr>
+<th>65415</th>
+<th>V - TX</th>
+<th>209</th>
+<th>276.5424</th>
+<th>1.32</th>
+</tr>
+<tr>
+<th>65416</th>
+<th>V - VA</th>
+<th>74</th>
+<th>114.0588</th>
+<th>1.54</th>
+</tr>
+<tr>
+<th>65417</th>
+<th>V - WI</th>
+<th>62</th>
+<th>98.2680</th>
+<th>1.58</th>
+</tr>
+<tr>
+<th>65421</th>
+<th>V - MI</th>
+<th>138</th>
+<th>181.2408</th>
+<th>1.31</th>
+</tr>
+<tr>
+<th>65881</th>
+<th>V - AZ</th>
+<th>75</th>
+<th>212.5488</th>
+<th>2.83</th>
+</tr>
+<tr>
+<th>68467</th>
+<th>V - NV</th>
+<th>53</th>
+<th>84.4068</th>
+<th>1.59</th>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><small>If you'd like to unsubscribe and stop receiving these important n=
+otices
+<a href=3D"http://sent.straticsnetworks.com/wf/unsubscribe?upn=3DiM7ajgtlA1=
+x8smCiUohtSOqkb3H4rF95eJtG47FD37NwHGk-2FIOYei2syFMSG1w7NDuHrO0Is7UiUJBewBE6=
+0GlwNmS8spcDVZKZmN-2Bzj8vRZSLLF24n6YZ5U2svbaCG0tC8SsoJJ1uC0CHjSZP4stAXULmSu=
+ogWF46KAsvC2oPIuk6Z5STIsCbdoyhzCsFFKOpIXItEMsWQRJ1iHhGCG7bK5lR631CCmt-2B3s6=
+6Cxq2c-3D">
+click here</a>.</small></p>
+<img src=3D"http://sent.straticsnetworks.com/wf/open?upn=3DiM7ajgtlA1x8smCi=
+UohtSOqkb3H4rF95eJtG47FD37NwHGk-2FIOYei2syFMSG1w7NDuHrO0Is7UiUJBewBE60Gjhuh=
+XhfItTYWS6UWses0RyeiDHHXBohacyxwXcupHla0zKsW2JswEHWY5AumLTTz1W-2BAKhr4-2FU9=
+OAzcAalzJmojLIdYwQXRcGYvb2UGLH7A1eiGZQy4AiLh0Ccs8H-2Fbf4voiQxlStV-2BHUhc2Ny=
+5fOw-3D" alt=3D"" width=3D"1" height=3D"1" border=3D"0" style=3D"height:1px=
+ !important;width:1px !important;border-width:0 !important;margin-top:0 !im=
+portant;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 =
+!important;padding-top:0 !important;padding-bottom:0 !important;padding-rig=
+ht:0 !important;padding-left:0 !important;">
+</body>
+</html>
+
+--_000_reRtZqhVQxSFx0dKRNFVvgismtpd0008p1las1sendgridnet_--

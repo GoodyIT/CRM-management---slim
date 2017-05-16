@@ -1,0 +1,78 @@
+Received: from SN1PR08MB1742.namprd08.prod.outlook.com (10.162.133.156) by
+ BY2PR08MB1735.namprd08.prod.outlook.com (10.163.45.157) with Microsoft SMTP
+ Server (TLS) id 15.1.415.20 via Mailbox Transport; Tue, 1 Mar 2016 14:37:25
+ +0000
+Received: from BLUPR08CA0041.namprd08.prod.outlook.com (10.141.200.21) by
+ SN1PR08MB1742.namprd08.prod.outlook.com (10.162.133.156) with Microsoft SMTP
+ Server (TLS) id 15.1.415.20; Tue, 1 Mar 2016 14:37:23 +0000
+Received: from BY2FFO11FD003.protection.gbl (2a01:111:f400:7c0c::113) by
+ BLUPR08CA0041.outlook.office365.com (2a01:111:e400:88d::21) with Microsoft
+ SMTP Server (TLS) id 15.1.415.20 via Frontend Transport; Tue, 1 Mar 2016
+ 14:37:23 +0000
+Received: from cportal7.visa.com (198.241.168.128) by
+ BY2FFO11FD003.mail.protection.outlook.com (10.1.14.125) with Microsoft SMTP
+ Server (TLS) id 15.1.427.7 via Frontend Transport; Tue, 1 Mar 2016 14:37:22
+ +0000
+From: Auto-Receipt <noreply@mail.authorize.net>
+To: David Jackson <djackson@ebrokercenter.com>
+Subject: ARB Subscription 27265374: Failed transaction
+Thread-Topic: ARB Subscription 27265374: Failed transaction
+Thread-Index: AQHRc8ffZAKlhiGGqUWVFvz07scKFQ==
+Date: Tue, 1 Mar 2016 14:37:22 +0000
+Message-ID: <d668a9$9elurv@cportal7.visa.com>
+Reply-To: David Jackson <djackson@ebrokercenter.com>
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Organization-AuthSource: BY2FFO11FD003.protection.gbl
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-Network-Message-Id: 5de6d7a9-b1bc-4857-6123-08d341df0077
+X-MS-Exchange-Organization-SCL: 1
+X-MS-TNEF-Correlator:
+received-spf: Pass (protection.outlook.com: domain of mail.authorize.net
+ designates 198.241.168.128 as permitted sender)
+ receiver=protection.outlook.com; client-ip=198.241.168.128;
+ helo=cportal7.visa.com;
+Content-Type: text/plain; charset="us-ascii"
+Content-ID: <9C5CB9A21B2BA045BC4DE74C277DBEBD@namprd08.prod.outlook.com>
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+The current transaction for your ARB subscription 27265374 has failed. See =
+the TRANSACTION RESULTS section below for details.
+
+SECURITY STATEMENT
+It is not recommended that you ship product(s) or otherwise grant services =
+relying solely upon this e-mail receipt.
+
+GENERAL INFORMATION=20
+Merchant       : E BROKER CENTER INC
+
+RECURRING TRANSACTION INFORMATION=20
+Subscription ID: 27265374
+Status         : Active
+Transaction    : 2 of 96
+Invoice        : DYK20160201
+Amount         : 9.99 (USD)
+Payment Method : eCheck
+
+TRANSACTION RESULTS=20
+Response       : This transaction cannot be processed.
+Reason         : 128
+Transaction ID : 0
+
+CUSTOMER BILLING INFORMATION=20
+Customer ID    : 20160127130819-gYFa
+First Name     : Sevelia
+Last Name      : Mackey
+Company        :=20
+Address        :=20
+City           :=20
+State/Province :=20
+Zip/Postal Code:=20
+Country        :=20
+Phone          : (512) 467-0122
+Fax            :=20
+E-mail         : seveliamackey78752@24hourmail.net
+
+
+

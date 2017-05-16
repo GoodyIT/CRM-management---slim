@@ -1,0 +1,60 @@
+Received: from CY1PR0801MB1514.namprd08.prod.outlook.com (10.163.142.21) by
+ CY1PR0801MB1514.namprd08.prod.outlook.com (10.163.142.21) with Microsoft SMTP
+ Server (TLS) id 15.1.447.15 via Mailbox Transport; Fri, 1 Apr 2016 17:57:15
+ +0000
+Received: from SN1PR08CA0012.namprd08.prod.outlook.com (10.161.221.22) by
+ CY1PR0801MB1514.namprd08.prod.outlook.com (10.163.142.21) with Microsoft SMTP
+ Server (TLS) id 15.1.447.15; Fri, 1 Apr 2016 17:57:13 +0000
+Received: from BL2FFO11FD024.protection.gbl (2a01:111:f400:7c09::180) by
+ SN1PR08CA0012.outlook.office365.com (2a01:111:e400:5833::22) with Microsoft
+ SMTP Server (TLS) id 15.1.447.15 via Frontend Transport; Fri, 1 Apr 2016
+ 17:57:13 +0000
+Received: from mail-p1.stripe.com (173.193.210.51) by
+ BL2FFO11FD024.mail.protection.outlook.com (10.173.161.103) with Microsoft
+ SMTP Server (TLS) id 15.1.453.6 via Frontend Transport; Fri, 1 Apr 2016
+ 17:57:13 +0000
+Received: by luna.mailgun.net with HTTP; Fri, 01 Apr 2016 17:56:40 +0000
+From: Stripe Disputes <support@stripe.com>
+To: "info@ebrokercenter.com" <info@ebrokercenter.com>
+Subject: Dispute on charge ch_17Yq2vDchUejWJZTYgtWk1pq has been closed
+Thread-Topic: Dispute on charge ch_17Yq2vDchUejWJZTYgtWk1pq has been closed
+Thread-Index: AQHRjD/tTrl9kMfLOUqbkoEHW6Ay/Q==
+Date: Fri, 1 Apr 2016 17:56:40 +0000
+Message-ID: <56feb658be8f5_5bfae1d318472c4@hurricane6.northwest.stripe.io.mail>
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Organization-AuthSource: BL2FFO11FD024.protection.gbl
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-Network-Message-Id: a35cb621-76dd-4ba0-61ec-08d35a570de2
+X-MS-TNEF-Correlator:
+received-spf: Pass (protection.outlook.com: domain of stripe.com designates
+ 173.193.210.51 as permitted sender) receiver=protection.outlook.com;
+ client-ip=173.193.210.51; helo=mail-p1.stripe.com;
+Content-Type: text/plain; charset="utf-8"
+Content-ID: <4AFE0A93B0AD944CA5716B36E5C93439@namprd08.prod.outlook.com>
+Content-Transfer-Encoding: base64
+MIME-Version: 1.0
+
+V2UgaGF2ZSBzb21lIGJhZCBuZXdzOiBpdCBsb29rcyBsaWtlIHRoZSBkaXNwdXRlIGluaXRpYXRl
+ZCBvbiBNYXJjaCAyNCBmb3IgJDI0Ljk5IHdhcyB1bmZvcnR1bmF0ZWx5IG5vdCByZXNvbHZlZCBp
+biB5b3VyIGZhdm9yLg0KDQpZb3UgY2FuIHZpZXcgYWxsIG9mIHRoZSBkZXRhaWxzIG9mIHRoZSBk
+aXNwdXRlZCBwYXltZW50IGZyb20geW91ciBkYXNoYm9hcmQ6DQoNCiAgICBodHRwczovL2Rhc2hi
+b2FyZC5zdHJpcGUuY29tL3BheW1lbnRzL2NoXzE3WXEydkRjaFVlaldKWlRZZ3RXazFwcQ0KDQpX
+ZSBrbm93IGhvdyBmcnVzdHJhdGluZyBpdCBpcyB0byBsb3NlIGEgZGlzcHV0ZSwgYW5kIHdl4oCZ
+cmUgc29ycnkgdG8gc2F5IHRoYXQgb25jZSBhIGRpc3B1dGUgaGFzIGJlZW4gbG9zdCwgdGhhdCBv
+dXRjb21lIGlzIGZpbmFsLg0KDQpEaXNwdXRlcyBhcmUgZGVjaWRlZCBieSB5b3VyIGN1c3RvbWVy
+J3MgYmFuaywgYWNjb3JkaW5nIHRvIHRoZSBiYW5r4oCZcyBwcm9jZXNzLiBUaGUgc3RlcHMgU3Ry
+aXBlIGZvbGxvd3MgdG8gaGVscCB5b3UgcmVzcG9uZCB0byB0aGUgZGlzcHV0ZSBhbmQgc3VibWl0
+IGV2aWRlbmNlIGFyZSByaWdpZGx5IGRlZmluZWQsIGJ1dCB0aGUgZGVjaXNpb24gbWFkZSBieSB0
+aGUgYmFuayBjYW4gYmUgYWZmZWN0ZWQgYnkgYSBudW1iZXIgb2YgZmFjdG9ycy4gT2Z0ZW4gdGhl
+IGRlY2lzaW9uIG9uIHdobyB3aW5zIGEgZGlzcHV0ZSBjb21lcyBkb3duIHRvIGEganVkZ2VtZW50
+IGNhbGwgYnkgdGhlIGJhbmsuIFN0cmlwZSBoYXMgbm8gd2F5IHRvIGFmZmVjdCB0aGlzIGp1ZGdl
+bWVudCBjYWxsIGJleW9uZCBzdWJtaXR0aW5nIGV2aWRlbmNlIG9uIHlvdXIgYmVoYWxmLg0KDQpG
+b3IgdGhlc2UgcmVhc29ucywgd2UgdW5mb3J0dW5hdGVseSBkb24ndCBoYXZlIGFueSBpbnNpZ2h0
+IGludG8gaG93IHRoaXMgc3BlY2lmaWMganVkZ2VtZW50IHdhcyByZWFjaGVkLg0KDQoNCkdvaW5n
+IGZvcndhcmQsIHdlIHJlY29tbWVuZCB0YWtpbmcgbWVhc3VyZXMgdG8gYXZvaWQgZGlzcHV0ZXMs
+IHN1Y2ggYXMgZW5zdXJpbmcgdGhhdCBjdXN0b21lcnMgcmVjb2duaXplIHRoZSBkZXNjcmlwdGlv
+biB0aGF0IGFwcGVhcnMgb24gdGhlaXIgY2FyZCBzdGF0ZW1lbnRzLiBZb3UgY2FuIGZpbmQgbW9y
+ZSBpbmZvcm1hdGlvbiBhYm91dCBwcmV2ZW50aW5nIGRpc3B1dGVzIGF0IGh0dHBzOi8vc3VwcG9y
+dC5zdHJpcGUuY29tL3F1ZXN0aW9ucy9ob3ctY2FuLWktYXZvaWQtY2hhcmdlYmFja3MuDQoNCllv
+dXJzLA0KDQpUaGUgU3RyaXBlIFRlYW0NCg==

@@ -1,0 +1,78 @@
+Received: from SN1PR08MB1743.namprd08.prod.outlook.com (10.162.133.157) by
+ BY2PR08MB1735.namprd08.prod.outlook.com (10.163.45.157) with Microsoft SMTP
+ Server (TLS) id 15.1.415.20 via Mailbox Transport; Sun, 28 Feb 2016 10:13:28
+ +0000
+Received: from DM2PR0801CA0032.namprd08.prod.outlook.com (10.162.18.42) by
+ SN1PR08MB1743.namprd08.prod.outlook.com (10.162.133.157) with Microsoft SMTP
+ Server (TLS) id 15.1.409.15; Sun, 28 Feb 2016 10:13:26 +0000
+Received: from BL2FFO11FD011.protection.gbl (2a01:111:f400:7c09::165) by
+ DM2PR0801CA0032.outlook.office365.com (2a01:111:e400:3c28::42) with Microsoft
+ SMTP Server (TLS) id 15.1.415.20 via Frontend Transport; Sun, 28 Feb 2016
+ 10:13:26 +0000
+Received: from cportal8.visa.com (198.241.168.129) by
+ BL2FFO11FD011.mail.protection.outlook.com (10.173.161.17) with Microsoft SMTP
+ Server (TLS) id 15.1.422.5 via Frontend Transport; Sun, 28 Feb 2016 10:13:26
+ +0000
+From: Auto-Receipt <noreply@mail.authorize.net>
+To: David Jackson <djackson@ebrokercenter.com>
+Subject: ARB Subscription 26860155: Failed transaction
+Thread-Topic: ARB Subscription 26860155: Failed transaction
+Thread-Index: AQHRchCr8FKaxD4wU0ymuy2d2A9PYw==
+Date: Sun, 28 Feb 2016 10:13:25 +0000
+Message-ID: <f1c1d7$9d7a72@cportal8.visa.com>
+Reply-To: David Jackson <djackson@ebrokercenter.com>
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Organization-AuthSource: BL2FFO11FD011.protection.gbl
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-Network-Message-Id: 94021c44-f669-4dec-3ef0-08d34027cc46
+X-MS-Exchange-Organization-SCL: 1
+X-MS-TNEF-Correlator:
+received-spf: Pass (protection.outlook.com: domain of mail.authorize.net
+ designates 198.241.168.129 as permitted sender)
+ receiver=protection.outlook.com; client-ip=198.241.168.129;
+ helo=cportal8.visa.com;
+Content-Type: text/plain; charset="us-ascii"
+Content-ID: <2A180F062846D8478B107C03F66E5A24@namprd08.prod.outlook.com>
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+The current transaction for your ARB subscription 26860155 has failed. See =
+the TRANSACTION RESULTS section below for details.
+
+SECURITY STATEMENT
+It is not recommended that you ship product(s) or otherwise grant services =
+relying solely upon this e-mail receipt.
+
+GENERAL INFORMATION=20
+Merchant       : E BROKER CENTER INC
+
+RECURRING TRANSACTION INFORMATION=20
+Subscription ID: 26860155
+Status         : Active
+Transaction    : 3 of 96
+Invoice        : EKG20151228
+Amount         : 9.99 (USD)
+Payment Method : eCheck
+
+TRANSACTION RESULTS=20
+Response       : This transaction cannot be processed.
+Reason         : 128
+Transaction ID : 0
+
+CUSTOMER BILLING INFORMATION=20
+Customer ID    : 20151221160248-RmhD
+First Name     : Terrance
+Last Name      : Palmer
+Company        :=20
+Address        :=20
+City           :=20
+State/Province :=20
+Zip/Postal Code:=20
+Country        :=20
+Phone          : (864) 480-9184
+Fax            :=20
+E-mail         : terrancepalmer29341@24hourmail.net
+
+
+

@@ -1,0 +1,59 @@
+Received: from SN1PR0801MB1518.namprd08.prod.outlook.com (10.163.133.145) by
+ CY1PR0801MB1514.namprd08.prod.outlook.com (10.163.142.21) with Microsoft SMTP
+ Server (TLS) id 15.1.355.16 via Mailbox Transport; Tue, 15 Dec 2015 10:01:35
+ +0000
+Received: from CY1PR08CA0031.namprd08.prod.outlook.com (10.163.94.169) by
+ SN1PR0801MB1518.namprd08.prod.outlook.com (10.163.133.145) with Microsoft
+ SMTP Server (TLS) id 15.1.355.16; Tue, 15 Dec 2015 10:01:33 +0000
+Received: from BY2FFO11FD033.protection.gbl (2a01:111:f400:7c0c::150) by
+ CY1PR08CA0031.outlook.office365.com (2a01:111:e400:5291::41) with Microsoft
+ SMTP Server (TLS) id 15.1.365.9 via Frontend Transport; Tue, 15 Dec 2015
+ 10:01:33 +0000
+Received: from mail-p1.stripe.com (173.193.210.51) by
+ BY2FFO11FD033.mail.protection.outlook.com (10.1.14.218) with Microsoft SMTP
+ Server id 15.1.346.13 via Frontend Transport; Tue, 15 Dec 2015 10:01:32 +0000
+Received: by luna.mailgun.net with HTTP; Tue, 15 Dec 2015 10:01:30 +0000
+From: Stripe Disputes <support@stripe.com>
+To: "info@ebrokercenter.com" <info@ebrokercenter.com>
+Subject: Reminder: Evidence is due soon for the dispute on charge
+ ch_173wOqDchUejWJZTOpkKoF2K
+Thread-Topic: Reminder: Evidence is due soon for the dispute on charge
+ ch_173wOqDchUejWJZTOpkKoF2K
+Thread-Index: AQHRNx+UgU5V4USJ7ES7MPtsvmEdfQ==
+Date: Tue, 15 Dec 2015 10:01:30 +0000
+Message-ID: <566fe4fa51e0f_7cb8cb9314341d7@hurricane11.northwest.stripe.io.mail>
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Organization-AuthSource: BY2FFO11FD033.protection.gbl
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-Network-Message-Id: 1e3935a5-3ce7-4170-eab9-08d30536b5ff
+X-MS-TNEF-Correlator:
+received-spf: Pass (protection.outlook.com: domain of stripe.com designates
+ 173.193.210.51 as permitted sender) receiver=protection.outlook.com;
+ client-ip=173.193.210.51; helo=mail-p1.stripe.com;
+Content-Type: text/plain; charset="utf-8"
+Content-ID: <5683021DEAC55346B0323B40F27657D8@namprd08.prod.outlook.com>
+Content-Transfer-Encoding: base64
+MIME-Version: 1.0
+
+RXZpZGVuY2UgZm9yIHRoZSBkaXNwdXRlIG9uIGNoYXJnZSBjaF8xNzN3T3FEY2hVZWpXSlpUT3Br
+S29GMksgKG1hZGUgdGhyb3VnaCB5b3VyIEUgQnJva2VyIENlbnRlciBhY2NvdW50IE5vdmVtYmVy
+IDA1LCAyMDE1IChVVEMpKSBpcyBkdWUgYnkgRGVjZW1iZXIgMTcsIDIwMTUgKFVUQykuDQoNCg0K
+VGhlIGdvb2QgbmV3cyBpcyB0aGF0IHlvdSBzdGlsbCBoYXZlIGEgY2hhbmNlIHRvIHJlc29sdmUg
+dGhlIGRpc3B1dGUgYW5kIHJlY2VpdmUgdGhlIGFtb3VudCBhbmQgZmVlIGJhY2suIFlvdSBjYW4g
+dmlldyBhbGwgb2YgdGhlIGRldGFpbHMgYWJvdXQgdGhlIGRpc3B1dGVkIHBheW1lbnQgYW5kIGlu
+c3RydWN0aW9ucyBmb3IgaG93IHRvIHByb2NlZWQgZnJvbSB0aGUgZGFzaGJvYXJkIG9mIHlvdXIg
+RSBCcm9rZXIgQ2VudGVyIGFjY291bnQ6DQogaHR0cHM6Ly9kYXNoYm9hcmQuc3RyaXBlLmNvbS9w
+YXltZW50cy9jaF8xNzN3T3FEY2hVZWpXSlpUT3BrS29GMksNCg0KDQoNCkRpc3B1dGVzIGFyZSBo
+YW5kbGVkIGJ5IHRoZSBjYXJkaG9sZGVyJ3MgYmFuaywgc28gd2UgZG9uJ3Qga25vdyBzcGVjaWZp
+Y2FsbHkgaG93IHRoaXMgZGlzcHV0ZSB3aWxsIGJlIHJlc29sdmVkLiBIb3dldmVyLCB3ZSBkbyB3
+YW50IHlvdSB0byBoYXZlIHRoZSBiZXN0IHBvc3NpYmxlIGNoYW5jZSBvZiB3aW5uaW5nIHRoaXMg
+ZGlzcHV0ZSwgc28gd2UndmUgcHV0IHRvZ2V0aGVyIGRldGFpbGVkIGRvY3VtZW50YXRpb24gdGhh
+dCBjYW4gYmUgaGVscGZ1bCBpbiB1bmRlcnN0YW5kaW5nIGFuZCByZXNwb25kaW5nIHRvIGRpc3B1
+dGVzOg0KDQogICBodHRwczovL3N0cmlwZS5jb20vaGVscC9kaXNwdXRlcy1vdmVydmlldw0KDQpZ
+b3UgY2FuIGFsc28gcmVhZCBhIGJpdCBhYm91dCBob3cgd2UgcmVjb21tZW5kIHJlc3BvbmRpbmcg
+dG8gdGhpcyBzcGVjaWZpYyB0eXBlIG9mIGRpc3B1dGU6DQoNCiAgIGh0dHBzOi8vc3VwcG9ydC5z
+dHJpcGUuY29tL3F1ZXN0aW9ucy9kaXNwdXRlLWZyYXVkdWxlbnQtZXZpZGVuY2UNCg0KV2UgdW5k
+ZXJzdGFuZCB0aGF0IHRoaXMgY2FuIGJlIGZydXN0cmF0aW5nLCBhbmQgd2UncmUgaGVyZSB0byBo
+ZWxwIGluIGFueSB3YXkgcG9zc2libGUuIElmIHlvdSBoYXZlIGFueSBxdWVzdGlvbnMsIHBsZWFz
+ZSBsZXQgdXMga25vdyByaWdodCBhd2F5IQ0KDQpZb3VycywNCg0KVGhlIFN0cmlwZSBUZWFtDQo=

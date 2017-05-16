@@ -1,0 +1,58 @@
+Received: from SN1PR0801MB1517.namprd08.prod.outlook.com (10.163.133.144) by
+ CY1PR0801MB1514.namprd08.prod.outlook.com (10.163.142.21) with Microsoft SMTP
+ Server (TLS) id 15.1.517.2 via Mailbox Transport; Mon, 13 Jun 2016 18:10:16
+ +0000
+Received: from BN1PR08CA0052.namprd08.prod.outlook.com (10.242.217.180) by
+ SN1PR0801MB1517.namprd08.prod.outlook.com (10.163.133.144) with Microsoft
+ SMTP Server (TLS) id 15.1.523.4; Mon, 13 Jun 2016 18:10:15 +0000
+Received: from BY2FFO11FD012.protection.gbl (2a01:111:f400:7c0c::190) by
+ BN1PR08CA0052.outlook.office365.com (2a01:111:e400:16::52) with Microsoft
+ SMTP Server (TLS) id 15.1.517.2 via Frontend Transport; Mon, 13 Jun 2016
+ 18:10:15 +0000
+Received: from mail-p1.stripe.com (173.193.210.51) by
+ BY2FFO11FD012.mail.protection.outlook.com (10.1.14.130) with Microsoft SMTP
+ Server (TLS) id 15.1.511.7 via Frontend Transport; Mon, 13 Jun 2016 18:10:14
+ +0000
+Received: by luna.mailgun.net with HTTP; Mon, 13 Jun 2016 18:10:12 +0000
+From: Stripe Disputes <support@stripe.com>
+To: "info@ebrokercenter.com" <info@ebrokercenter.com>
+Subject: A dispute on charge ch_17VUjSDchUejWJZTtVDeYWiO has been resolved in
+ your favor
+Thread-Topic: A dispute on charge ch_17VUjSDchUejWJZTtVDeYWiO has been
+ resolved in your favor
+Thread-Index: AQHRxZ7WcWrDpyljvESzTErJj/LhZg==
+Date: Mon, 13 Jun 2016 18:10:12 +0000
+Message-ID: <575ef7045df69_5066120d32449749@hurricane3.northwest.stripe.io.mail>
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Organization-AuthSource: BY2FFO11FD012.protection.gbl
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-Network-Message-Id: 8cabd529-a3be-4505-ca12-08d393b5f805
+X-MS-TNEF-Correlator:
+received-spf: Pass (protection.outlook.com: domain of stripe.com designates
+ 173.193.210.51 as permitted sender) receiver=protection.outlook.com;
+ client-ip=173.193.210.51; helo=mail-p1.stripe.com;
+X-Microsoft-Exchange-Diagnostics: 1;CY1PR0801MB1514;9:KhtUQpiBwBuRCVwwDNFkEEa3/Gngmblo0vnPvahbxxLOQWAxCcpkj045lWHRuJ7EcnwdiD4z52MnpS24bj0Zcs6ksYXNmHNmx6qATCki1AcxWFrH3++cYt83zV790OQOBqJY1bR9XK/uom5lVu81wxnQzKivYKBAkTmcGYOiWNM=
+Content-Type: text/plain; charset="utf-8"
+Content-ID: <3E532891702C5A4BA74516CBA40F7AC0@namprd08.prod.outlook.com>
+Content-Transfer-Encoding: base64
+MIME-Version: 1.0
+
+V2UgaGF2ZSBnb29kIG5ld3MgZm9yIHlvdSEgVGhlIGRpc3B1dGVkIHBheW1lbnQgZnJvbSBKYW51
+YXJ5IDIwIHdhcyBzdWNjZXNzZnVsbHkgcmVzb2x2ZWQgaW4geW91ciBmYXZvciBieSB5b3VyIGN1
+c3RvbWVyJ3MgYmFuayBvciBjcmVkaXQgY2FyZCBjb21wYW55LiBUaGlzIG1lYW5zIHRoYXQgJDku
+OTkgYW5kIHRoZSBkaXNwdXRlIGZlZSB3aWxsIGJlIHJldHVybmVkIHRvIHlvdXIgYWNjb3VudCBp
+biB0aGUgbmV4dCBmZXcgZGF5cy4gDQoNCllvdSBjYW4gc2VlIHRoaXMgaW4geW91ciBkYXNoYm9h
+cmQgKG9uIHRoZSB0cmFuc2ZlcnMgcGFnZSk6DQoNCiAgICBodHRwczovL2Rhc2hib2FyZC5zdHJp
+cGUuY29tL3RyYW5zZmVycy9vdmVydmlldw0KDQpUaGVyZSdzIG5vIGZ1cnRoZXIgYWN0aW9uIHJl
+cXVpcmVkLiBIb3dldmVyLCBpbiBjYXNlIGl0J3MgaGVscGZ1bCwgeW91IGNhbiBmaW5kIG1vcmUg
+aW5mb3JtYXRpb24gYWJvdXQgdGhlIG9yaWdpbmFsIGNoYXJnZSByaWdodCBmcm9tIHlvdXIgZGFz
+aGJvYXJkOg0KDQogICAgaHR0cHM6Ly9kYXNoYm9hcmQuc3RyaXBlLmNvbS9wYXltZW50cy9jaF8x
+N1ZValNEY2hVZWpXSlpUdFZEZVlXaU8NCg0KV2UncmUgZ2xhZCB0byBoZWFyIHRoYXQgdGhpcyB3
+b3JrZWQgb3V0LiBJZiB5b3UncmUgZXZlciBjdXJpb3VzIGZvciBtb3JlIGluZm9ybWF0aW9uIGFi
+b3V0IGRpc3B1dGVzLCB5b3UgbWlnaHQgZmluZCBvdXIgZGV0YWlsZWQgZG9jdW1lbnRhdGlvbiBw
+YXJ0aWN1bGFybHkgaGVscGZ1bDoNCg0KICAgIGh0dHBzOi8vc3RyaXBlLmNvbS9oZWxwL2Rpc3B1
+dGVzDQoNCg0KV2UnbGwgYmUgaGVyZSB0byBoZWxwIHlvdSB3aXRoIGFueSBzdGVwIGFsb25nIHRo
+ZSB3YXkuIFlvdSBjYW4gZmluZCBhbnN3ZXJzIHRvIG1vc3QgcXVlc3Rpb25zIGFuZCBnZXQgaW4g
+dG91Y2ggd2l0aCB1cyBhdCBodHRwczovL3N1cHBvcnQuc3RyaXBlLmNvbS8uDQoNCllvdXJzLA0K
+DQpUaGUgU3RyaXBlIFRlYW0NCg==

@@ -1,0 +1,77 @@
+Received: from CY1PR0801MB1514.namprd08.prod.outlook.com (10.163.142.21) by
+ CY1PR0801MB1514.namprd08.prod.outlook.com (10.163.142.21) with Microsoft SMTP
+ Server (TLS) id 15.1.361.13 via Mailbox Transport; Wed, 30 Dec 2015 23:46:04
+ +0000
+Received: from CY1PR08CA0037.namprd08.prod.outlook.com (10.163.94.175) by
+ CY1PR0801MB1514.namprd08.prod.outlook.com (10.163.142.21) with Microsoft SMTP
+ Server (TLS) id 15.1.361.13; Wed, 30 Dec 2015 23:46:01 +0000
+Received: from BN1AFFO11FD041.protection.gbl (2a01:111:f400:7c10::162) by
+ CY1PR08CA0037.outlook.office365.com (2a01:111:e400:5291::47) with Microsoft
+ SMTP Server (TLS) id 15.1.365.9 via Frontend Transport; Wed, 30 Dec 2015
+ 23:46:01 +0000
+Received: from mail-p2.stripe.com (166.78.69.60) by
+ BN1AFFO11FD041.mail.protection.outlook.com (10.58.52.252) with Microsoft SMTP
+ Server (TLS) id 15.1.355.15 via Frontend Transport; Wed, 30 Dec 2015 23:45:59
+ +0000
+Received: by luna.mailgun.net with HTTP; Wed, 30 Dec 2015 23:45:59 +0000
+From: Stripe Disputes <support@stripe.com>
+To: "info@ebrokercenter.com" <info@ebrokercenter.com>
+Subject: You have a disputed charge for $24.99 (ch_17IpliDchUejWJZT6LMOd3Xh)
+Thread-Topic: You have a disputed charge for $24.99
+ (ch_17IpliDchUejWJZT6LMOd3Xh)
+Thread-Index: AQHRQ1w/YNuwlg+3Tkmi9Nyv34ZTGw==
+Date: Wed, 30 Dec 2015 23:45:58 +0000
+Message-ID: <56846cb6cf14b_6a5e11a132c81051@hurricane13.northwest.stripe.io.mail>
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Organization-AuthSource: BN1AFFO11FD041.protection.gbl
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-Network-Message-Id: 418b7a75-e721-4c1c-3b2a-08d311735f2e
+X-MS-TNEF-Correlator:
+received-spf: Pass (protection.outlook.com: domain of stripe.com designates
+ 166.78.69.60 as permitted sender) receiver=protection.outlook.com;
+ client-ip=166.78.69.60; helo=mail-p2.stripe.com;
+Content-Type: text/plain; charset="utf-8"
+Content-ID: <9426FAF474873540AE69598673D1820A@namprd08.prod.outlook.com>
+Content-Transfer-Encoding: base64
+MIME-Version: 1.0
+
+V2UncmUgc29ycnkgdG8gcmVwb3J0IHRoYXQgb25lIG9mIHlvdXIgY3VzdG9tZXJzIGhhcyBkaXNw
+dXRlZCBhICQyNC45OSBjaGFyZ2UgKG1hZGUgdGhyb3VnaCB5b3VyIEUgQnJva2VyIENlbnRlciBh
+Y2NvdW50IG9uIERlY2VtYmVyIDE3LCAyMDE1IChVVEMpKSB3aXRoIGhpcyBvciBoZXIgY3JlZGl0
+IGNhcmQgY29tcGFueS4gWW91ciBjdXN0b21lciBpcyBjbGFpbWluZyB0aGF0IHRoZSBwYXltZW50
+IHdhcyBmb3IgYSBjaGFyZ2UgZm9yIGEgc3Vic2NyaXB0b24gdGhhdCB3YXMgY2FuY2VsZWQuDQoN
+CldoZW4gb25lIG9mIHlvdXIgY3VzdG9tZXJzIGRpc3B1dGVzIGEgY2hhcmdlLCB3ZSdyZSBub3Rp
+ZmllZCBieSBoaXMgb3IgaGVyIGJhbmsgLS0gd2hpY2ggYXV0b21hdGljYWxseSByZWZ1bmRzIHRo
+ZSB0cmFuc2FjdGlvbiAtLSBhbmQgcGFzcyBvbiBhcyBtdWNoIGluZm9ybWF0aW9uIHRvIHlvdSBh
+cyB3ZSByZWNlaXZlLiBTaW5jZSB0aGUgcGF5bWVudCBoYXMgYmVlbiByZXR1cm5lZCB0byB5b3Vy
+IGN1c3RvbWVyLCB3ZSdsbCBkZWR1Y3QgdGhpcyBhbW91bnQgYW5kIHRoZSBkaXNwdXRlIGZlZSBm
+cm9tIHlvdXIgYWNjb3VudCB3aXRoaW4gdGhlIG5leHQgZGF5Lg0KDQpUaGUgZ29vZCBuZXdzIGlz
+IHRoYXQgeW91IHN0aWxsIGhhdmUgYSBjaGFuY2UgdG8gcmVzb2x2ZSB0aGUgZGlzcHV0ZSBhbmQg
+cmVjZWl2ZSB0aGUgYW1vdW50IGFuZCBmZWUgYmFjay4gWW91IGNhbiByZXNwb25kIHRvIHRoZSBk
+aXNwdXRlIHRocm91Z2ggeW91ciBkYXNoYm9hcmQ7IHlvdXIgY3VzdG9tZXIncyBiYW5rIHRoZW4g
+bWFrZXMgdGhlIHVsdGltYXRlIGRlY2lzaW9uIGFib3V0IGhvdyB0byByZXNvbHZlIHRoZSBkaXNw
+dXRlLiBJZiB0aGUgZGlzcHV0ZSBpcyByZXNvbHZlZCBpbiB5b3VyIGZhdm9yIGJ5IHlvdXIgY3Vz
+dG9tZXIncyBiYW5rIG9yIGNyZWRpdCBjYXJkIGNvbXBhbnksIHdlJ2xsIHJldHVybiBib3RoIHRo
+ZSBkaXNwdXRlZCBhbW91bnQgYW5kIHRoZSBmZWUuIA0KDQpEaXNwdXRlcyBhcmUgaGFuZGxlZCBi
+eSB5b3VyIGN1c3RvbWVyJ3MgYmFuaywgc28gd2UgZG9uJ3QgaGF2ZSBhbnkgc3BlY2lmaWMgaW5m
+b3JtYXRpb24gYWJvdXQgaG93IHRoaXMgcGF5bWVudCB3aWxsIGJlIHJldmlld2VkLiBIb3dldmVy
+LCB3ZSBkbyB3YW50IHlvdSB0byBoYXZlIHRoZSBiZXN0IGNoYW5jZSBwb3NzaWJsZSBpbiByZXNw
+b25kaW5nIHRvIHRoZXNlIGRpc3B1dGVzLiBXZSd2ZSBwdXQgdG9nZXRoZXIgZGV0YWlsZWQgZG9j
+dW1lbnRhdGlvbiB0aGF0IGNhbiBiZSB2ZXJ5IGhlbHBmdWwgaW4gdW5kZXJzdGFuZGluZyBhbmQg
+cmVzcG9uZGluZyB0byBkaXNwdXRlczoNCg0KICAgIGh0dHBzOi8vc3RyaXBlLmNvbS9oZWxwL2Rp
+c3B1dGVzDQoNCiBZb3UgY2FuIGFsc28gcmVhZCBhIGJpdCBhYm91dCBob3cgd2UgcmVjb21tZW5k
+IHJlc3BvbmRpbmcgdG8gdGhpcyBzcGVjaWZpYyB0eXBlIG9mIGRpc3B1dGU6DQoNCiAgICBodHRw
+czovL3N1cHBvcnQuc3RyaXBlLmNvbS9xdWVzdGlvbnMvZGlzcHV0ZS1jYW5jZWxlZC1zdWJzY3Jp
+cHRpb24tZXZpZGVuY2UNCg0KWW91IGNhbiB2aWV3IGFsbCBvZiB0aGUgZGV0YWlscyBhYm91dCB0
+aGUgZGlzcHV0ZWQgcGF5bWVudCBhbmQgcmVzcG9uZCB0byB0aGUgZGlzcHV0ZSByaWdodCBmcm9t
+IHRoZSBkYXNoYm9hcmQgb2YgeW91ciBFIEJyb2tlciBDZW50ZXIgYWNjb3VudDoNCg0KICAgIGh0
+dHBzOi8vZGFzaGJvYXJkLnN0cmlwZS5jb20vcGF5bWVudHMvY2hfMTdJcGxpRGNoVWVqV0paVDZM
+TU9kM1hoDQoNCklmIHlvdSBkbyBjaG9vc2UgdG8gY29udGVzdCB0aGlzIGRpc3B1dGUsIHlvdSds
+bCBuZWVkIHRvIHN1Ym1pdCB5b3VyIGRpc3B1dGUgZXZpZGVuY2UgYnkgSmFudWFyeSAxNiwgMjAx
+NiAoVVRDKS4gSWYgeW91IHN1Ym1pdCBhZnRlciB0aGlzIGRhdGUsIHdlIGNhbm5vdCBndWFyYW50
+ZWUgdGhlIGJhbmsgd2lsbCBhY2NlcHQgb3IgcmV2aWV3IHlvdXIgZXZpZGVuY2UuDQoNCldlIHJl
+YWxpemUgaG93IGZydXN0cmF0aW5nIHRoaXMgY2FuIGJlLiBZb3UgY2FuIGZpbmQgYW5zd2VycyB0
+byBtb3N0IHF1ZXN0aW9ucyBhdCBodHRwczovL3N1cHBvcnQuc3RyaXBlLmNvbS8sIGFuZCB3ZSds
+bCBiZSBoZXJlIHRvIGhlbHAgeW91IHdpdGggYW55IHN0ZXAgYWxvbmcgdGhlIHdheS4NCg0KWW91
+cnMsDQoNClRoZSBTdHJpcGUgVGVhbQ0K

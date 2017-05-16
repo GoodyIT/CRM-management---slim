@@ -1,0 +1,363 @@
+Received: from BLUPR08MB1732.namprd08.prod.outlook.com (10.162.225.158) by
+ BY2PR08MB1735.namprd08.prod.outlook.com (10.163.45.157) with Microsoft SMTP
+ Server (TLS) id 15.1.447.15 via Mailbox Transport; Mon, 4 Apr 2016 21:47:55
+ +0000
+Received: from BL2PR08CA0049.namprd08.prod.outlook.com (10.255.170.167) by
+ BLUPR08MB1732.namprd08.prod.outlook.com (10.162.225.158) with Microsoft SMTP
+ Server (TLS) id 15.1.447.15; Mon, 4 Apr 2016 21:47:54 +0000
+Received: from BY2FFO11FD049.protection.gbl (2a01:111:f400:7c0c::180) by
+ BL2PR08CA0049.outlook.office365.com (2a01:111:e400:c4b::39) with Microsoft
+ SMTP Server (TLS) id 15.1.447.15 via Frontend Transport; Mon, 4 Apr 2016
+ 21:47:54 +0000
+Received: from visa.com (198.241.159.4) by
+ BY2FFO11FD049.mail.protection.outlook.com (10.1.15.186) with Microsoft SMTP
+ Server (TLS) id 15.1.453.6 via Frontend Transport; Mon, 4 Apr 2016 21:47:53
+ +0000
+From: "ACH Compliance (CYBS)" <ach_compliance@authorize.net>
+To: David Jackson <djackson@ebrokercenter.com>
+Subject: Proof of Authorization Request
+Thread-Topic: Proof of Authorization Request
+Thread-Index: AdGOu6ArkCaS9SsZnESI/kjs4/5Wcg==
+Date: Mon, 4 Apr 2016 21:47:46 +0000
+Message-ID: <3054bf68fdb148bd8b0766ce27a1d3de@SW550EXP004.visa.com>
+References: <F39FEB9AD36338439B7F1846755695133B3EA47C@SW720MBPX060.visa.com>
+In-Reply-To: <F39FEB9AD36338439B7F1846755695133B3EA47C@SW720MBPX060.visa.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Organization-AuthSource: BY2FFO11FD049.protection.gbl
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-Network-Message-Id: 8f176c84-47dd-4b94-8417-08d35cd2c720
+X-MS-Exchange-Organization-SCL: 1
+X-MS-TNEF-Correlator:
+received-spf: Pass (protection.outlook.com: domain of authorize.net designates
+ 198.241.159.4 as permitted sender) receiver=protection.outlook.com;
+ client-ip=198.241.159.4; helo=visa.com;
+Content-Type: multipart/related;
+	boundary="_004_3054bf68fdb148bd8b0766ce27a1d3deSW550EXP004visacom_";
+	type="multipart/alternative"
+MIME-Version: 1.0
+
+--_004_3054bf68fdb148bd8b0766ce27a1d3deSW550EXP004visacom_
+Content-Type: multipart/alternative;
+	boundary="_000_3054bf68fdb148bd8b0766ce27a1d3deSW550EXP004visacom_"
+
+--_000_3054bf68fdb148bd8b0766ce27a1d3deSW550EXP004visacom_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Dear Merchant,
+
+We have received a request from our Originating Depository Financial Instit=
+ution (ODFI) asking that you provide proof of authorization for transaction=
+s originated into the Automated Clearing House (ACH) Network by your compan=
+y.   These transactions were originated using Authorize.Net eCheck.Net(r) s=
+ystem.
+Please provide a copy of your authorization for the following transaction(s=
+) by Noon on April 8, 2016 .
+
+
+Customer Name            : EDITH BROWN
+
+Customer Id #               : 7885951435
+
+Account #                     :XXXXXXX8211
+
+Routing #                      : 053101121
+
+Dollar Amount               : $9.99
+
+Effective                       : 01/14/16
+
+Orig. Co. Name             : E BROKER CENTER
+
+SEC                             : WEB
+
+As an originator of ACH transactions you are obligated to receive authoriza=
+tion and retain copies of that authorization.  Please be aware that failing=
+ to respond to this request will result in a chargeback to your account and=
+ may cause additional regulatory actions.
+To review information regarding proper authorization and record retention f=
+or the SEC transaction types you originate please refer to the Authorizatio=
+n Requirements section of the eCheck.Net(r) Operating Procedures and User's=
+ Guide.  The guide can be found at the following location www.authorize.net=
+/files/echecknetuserguide.pdf<http://www.authorize.net/files/echecknetuserg=
+uide.pdf>.  You may also purchase a complete copy of the NACHA operating ru=
+les on the NACHA web site (www.NACHA.org<http://www.NACHA.org>).
+
+Please submit this required additional information to ACH_Compliance@author=
+ize.net<mailto:ACH_Compliance@authorize.net> or you may fax them to 650.286=
+.6654 Attention: ACH Compliance.
+
+Sincerely,
+
+
+Kari Peterson | Risk Analyst
+eCheck. Net(r) _  An Authorize.Net service
+Fax 650.286.6654  Attn: Risk
+General Risk Dept 888.317.6935 Option 2
+risk@cybersource.com<mailto:risk@cybersource.com>   |   www.cybersource.com=
+<http://www.cybersource.com/>
+
+[Description: Description: Description: CyberSource Home Page]<http://www.c=
+ybersource.com/>
+
+
+The information contained in this transmission (including any attachments) =
+is confidential and may be privileged. It is intended only for the use of t=
+he individual or entity named above. If you are not the intended recipient,=
+ dissemination, distribution, or copy of this communication is strictly pro=
+hibited. If you have received this communication in error, please erase all=
+ copies of this message and its attachments and notify me immediately.
+
+
+
+--_000_3054bf68fdb148bd8b0766ce27a1d3deSW550EXP004visacom_
+Content-Type: text/html; charset="us-ascii"
+Content-ID: <860A53B575D14B488627B09AD9196DD8@namprd08.prod.outlook.com>
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Word 15 (filtered medium)">
+<!--[if !mso]><style>v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style><![endif]--><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Cambria;
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:sourceSansPro;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p
+	{mso-style-priority:99;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-priority:99;
+	mso-style-link:"Balloon Text Char";
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:8.0pt;
+	font-family:"Tahoma",sans-serif;}
+span.BalloonTextChar
+	{mso-style-name:"Balloon Text Char";
+	mso-style-priority:99;
+	mso-style-link:"Balloon Text";
+	font-family:"Tahoma",sans-serif;}
+span.EmailStyle19
+	{mso-style-type:personal-compose;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;
+	font-family:"Calibri",sans-serif;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang=3D"EN-US" link=3D"blue" vlink=3D"purple">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal">Dear Merchant,&nbsp; <o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">We have received a request from our Originating Depo=
+sitory Financial Institution (ODFI) asking that you provide proof of author=
+ization for transactions originated into the Automated Clearing House (ACH)=
+ Network by your company.&nbsp;&nbsp; These
+ transactions were originated using Authorize.Net eCheck.Net&reg; system.&n=
+bsp; <o:p></o:p></p>
+<p class=3D"MsoNormal"><b>Please provide a copy of your authorization for t=
+he following transaction</b>(s)
+<b>by Noon on April 8, 2016 </b>.<b><o:p></o:p></b></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p><span style=3D"font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif=
+">Customer Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp; :
+<span style=3D"color:#1F497D">EDITH BROWN</span></span><span style=3D"font-=
+family:sourceSansPro"><o:p></o:p></span></p>
+<p><span style=3D"font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif=
+">Customer Id #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp; :
+<span style=3D"color:#1F497D">7885951435</span></span><span style=3D"font-f=
+amily:sourceSansPro"><o:p></o:p></span></p>
+<p><span style=3D"font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif=
+">Account #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :XXXXXXX<span styl=
+e=3D"color:#1F497D">8211</span></span><span style=3D"font-family:sourceSans=
+Pro"><o:p></o:p></span></p>
+<p><span style=3D"font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif=
+">Routing #&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :
+<span style=3D"color:#1F497D">053101121</span></span><span style=3D"font-fa=
+mily:sourceSansPro"><o:p></o:p></span></p>
+<p><span style=3D"font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif=
+">Dollar Amount&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp; :
+<span style=3D"color:#1F497D">$9.99</span></span><span style=3D"font-family=
+:sourceSansPro"><o:p></o:p></span></p>
+<p><span style=3D"font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif=
+">Effective&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span style=3D"color:#1F497D">: 01/14/16</span></span><span style=3D"font-f=
+amily:sourceSansPro"><o:p></o:p></span></p>
+<p><span style=3D"font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif=
+">Orig. Co. Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp; :
+<span style=3D"color:#1F497D">E BROKER CENTER</span></span><span style=3D"f=
+ont-family:sourceSansPro"><o:p></o:p></span></p>
+<p><span style=3D"font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif=
+">SEC&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp; :
+<span style=3D"color:#1F497D">WEB</span></span><span style=3D"font-family:s=
+ourceSansPro"><o:p></o:p></span></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">As an originator of ACH transactions you are obligat=
+ed to receive authorization and retain copies of that authorization.&nbsp; =
+Please be aware that failing to respond to this request will result in a ch=
+argeback to your account and may cause
+ additional regulatory actions.&nbsp;&nbsp; <o:p></o:p></p>
+<p class=3D"MsoNormal">To review information regarding proper authorization=
+ and record retention for the SEC transaction types you originate please re=
+fer to the Authorization Requirements section of the eCheck.Net&reg; Operat=
+ing Procedures and User&#8217;s Guide.&nbsp; The
+ guide can be found at the following location <a href=3D"http://www.authori=
+ze.net/files/echecknetuserguide.pdf">
+www.authorize.net/files/echecknetuserguide.pdf</a>.&nbsp; You may also purc=
+hase a complete copy of the NACHA operating rules on the NACHA web site (<a=
+ href=3D"http://www.NACHA.org">www.NACHA.org</a>).&nbsp;
+<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><b>Please submit this required additional informatio=
+n to </b>
+<a href=3D"mailto:ACH_Compliance@authorize.net">ACH_Compliance@authorize.ne=
+t</a><b> or you may fax them to 650.286.6654 Attention:
+<u>ACH Compliance</u>.<o:p></o:p></b></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">Sincerely,<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><b><span style=3D"color:#17365D">Kari Peterson | Ris=
+k Analyst</span></b><span style=3D"font-size:8.0pt;color:#17365D"><br>
+</span><b><span style=3D"font-family:&quot;Cambria&quot;,serif;color:#17365=
+D">eCheck. Net<sup>&reg; _&nbsp;
+</sup>An Authorize.Net service</span></b><span style=3D"color:#17365D"><o:p=
+></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"color:#17365D">Fax 650.286.6654&nbsp;=
+ Attn: Risk<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"color:#17365D">General Risk Dept 888.=
+317.6935 Option 2<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><a href=3D"mailto:risk@cybersource.com"><b><span sty=
+le=3D"font-size:8.5pt;color:#17365D">risk@cybersource.com</span></b></a><b>=
+<span style=3D"font-size:8.5pt;color:#17365D">&nbsp;&nbsp; |&nbsp;&nbsp;
+</span></b><a href=3D"http://www.cybersource.com/"><b><span style=3D"font-s=
+ize:8.5pt;color:#17365D">www.cybersource.com</span></b></a><b><span style=
+=3D"color:#17365D"><o:p></o:p></span></b></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D"><o:p>&nbsp;</o:p></spa=
+n></p>
+<p class=3D"MsoNormal"><a href=3D"http://www.cybersource.com/"><span style=
+=3D"color:#1F497D;text-decoration:none"><img border=3D"0" width=3D"148" hei=
+ght=3D"24" id=3D"Picture_x0020_1" src=3D"cid:image001.jpg@01D019D0.9346FF60=
+" alt=3D"Description: Description: Description: CyberSource Home Page"></sp=
+an></a><o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><i><span style=3D"font-size:10.0pt;font-family:&quot=
+;Arial&quot;,sans-serif;color:#1F497D">The information contained in this tr=
+ansmission (including any attachments) is confidential and may be privilege=
+d. It is intended only for the use of the individual
+ or entity named above. If you are not the intended recipient, disseminatio=
+n, distribution, or copy of this communication is strictly prohibited. If y=
+ou have received this communication in error, please erase all copies of th=
+is message and its attachments and
+ notify me immediately.<o:p></o:p></span></i></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+</div>
+</body>
+</html>
+
+--_000_3054bf68fdb148bd8b0766ce27a1d3deSW550EXP004visacom_--
+
+--_004_3054bf68fdb148bd8b0766ce27a1d3deSW550EXP004visacom_
+Content-Type: image/jpeg; name="image001.jpg"
+Content-Description: image001.jpg
+Content-Disposition: inline; filename="image001.jpg"; size=1588;
+	creation-date="Wed, 17 Dec 2014 15:08:24 GMT";
+	modification-date="Wed, 17 Dec 2014 15:08:24 GMT"
+Content-ID: <image001.jpg@01D019D0.9346FF60>
+Content-Transfer-Encoding: base64
+
+/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIf
+IiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/2wBDAQoLCw4NDhwQEBw7KCIoOzs7Ozs7
+Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozv/wAARCAAYAJQDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDyKnJG
+8jKiKWZjhVUZJPoKbW14U1qPw94itdUmtvtMcJO5OM8jqM9xX08m0roxI/8AhF9ZWVYXsxHK+NsU
+kqI5z/sk5rOuLaa0uJLe4jMc0TFXRuqkdq2b220W51SS6TX3MMshdjNbP5y5OcccE/jXRaG8c+j3
+2na2twuhPma21FgqyrtPAHru/u+tYe1klew7HHWGi6hqkFxNZQealsheXDqCqjvgnNUR9a7jS/Gl
+u2rajPeyG0hlsmtrQJFuEfTGcfTmoZPE2mDR7ay1If25NHdLKZjCIvLjHVATy2ffikqs7/CFjjcd
+80ld3rHijTJWvm06W0ktLtNqWtxZPmH2XnaCPUVWufE0EXhXTLbT9QC6laF/NJthh1PRckc4HrVK
+rJq/KFjnoNA1S5to7mO1IhmOInkdUEh/2dxGfwqrd2dzY3clpdQtDPGcPG3UGut0zxDYR2NpZ6hf
+wX1iuTNaX1iXMJJ58pl5H5ilj1zw8tnqltpfnaXPPcB7a8nTzX8sfwE8lfqM1Ptal7WCyOLxRj3F
+d3F4u0m2v9CkcG6ns2Iv75YApnQ9F2n72PU81FaavoVnZ+IrQ6l50WpI32XFof3bE55z09OKr20v
+5QscTRiuyPiaC28GafZ2OoBNTtJmdnNqCGQjAXJHOPei717TZ9OsG0q//se4gXNzCbXcJpM5L7wD
+nPoeBS9rL+ULHG4NSJa3EkLTJBI0SfekCEqPqa7S28S6P/YtvHDLHZajDMZLiV7Zil2c8HKcj/dI
+xWBqviG8uri6S3uEgtblt0kFopihY+uw1UakpPYRi0UUVsAUUUUwCiiigAo7Y7UUUrAFTWtx9muo
+rgIrmJw+xxlWwc4PtRRR5Adfc/ESO7hlhl8N6c8UrFijLkAkAcYAxjFZWr+JLLVPsax+H7GwW3YF
+zbg5kHcH2/OiislRgtguad3430Zr5ZLTwdpyQouF3j5+nsMfoagTxnpyq4fwfo7lmJB2MNoPQD6e
+tFFHsYWC4sfjWwWCBJPCGkO0RyzbCN5+nas/S/EcFhf3d3c6LZX32nokqbRF/ugcAfhRRT9lALkm
+r+K/7Yj063fTba1tbFy3k264V8nP8uK07jxvov8AaKT23g7TxDGpCrJ1OR3wMUUUexhawXIpPF+j
+fZVMXhaxF0ZizloxsEZ52Dv+JpJPG9hIw3eENI2qQwUJjkHPb24oopewgFwPjbTzNLIPCOkqJcZG
+zOAARjp3z29KyvEHiAa99kP9n29mbWLysQDAcZ6kY60UU40oRd0FzH/HFFFFagf/2Q==
+
+--_004_3054bf68fdb148bd8b0766ce27a1d3deSW550EXP004visacom_--

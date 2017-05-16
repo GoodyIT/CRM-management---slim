@@ -1,0 +1,61 @@
+Delivered-To: tralaine2007@gmail.com
+Received: by 10.28.150.11 with SMTP id y11csp1144870wmd; Fri, 29 Jan 2016
+ 09:18:01 -0800 (PST)
+X-Received: by 10.182.128.34 with SMTP id nl2mr7554719obb.59.1454087881688;
+ Fri, 29 Jan 2016 09:18:01 -0800 (PST)
+Return-Path: <bounce+acd219.7b3e3-tralaine2007=gmail.com@exchangeadvisers.com>
+Received: from rs224.mailgun.us (rs224.mailgun.us. [209.61.151.224]) by
+ mx.google.com with ESMTPS id i65si15711238oih.60.2016.01.29.09.18.01 for
+ <Tralaine2007@gmail.com> (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256
+ bits=128/128); Fri, 29 Jan 2016 09:18:01 -0800 (PST)
+Received-SPF: pass (google.com: domain of
+ bounce+acd219.7b3e3-tralaine2007=gmail.com@exchangeadvisers.com designates
+ 209.61.151.224 as permitted sender) client-ip=209.61.151.224;
+Authentication-Results: mx.google.com; spf=pass (google.com: domain of
+ bounce+acd219.7b3e3-tralaine2007=gmail.com@exchangeadvisers.com designates
+ 209.61.151.224 as permitted sender)
+ smtp.mailfrom=bounce+acd219.7b3e3-tralaine2007=gmail.com@exchangeadvisers.com; 
+ dkim=pass header.i=@exchangeadvisers.com; dkim=pass header.i=@mailgun.org
+DKIM-Signature: a=rsa-sha256; v=1; c=relaxed/relaxed; d=exchangeadvisers.com; 
+ q=dns/txt; s=krs; t=1454087881;
+ h=Content-Type: Mime-Version: Subject: From:
+ To: Message-Id: Date: Sender: X-Feedback-Id;
+ bh=KCb/Mvz6hjnPXCMuHeEPzOBbkGO2Nh4aXH0GjBU7V+I=;
+ b=FHllR8as04l+hUWZWYvj0JKaPRVVepTqzDAK1HnsTv/UxiZNzbPx6eWWO/x/C5aj/HvXKnTs
+ cKKAltWdcp75ZUQ3exK9AY9fMsBrVZkBBP6kL1KvNUGMKWzwlO6cI7CI9SrghcOaSFnjrVKq
+ +Y7jCYw7Fm59JU9FTySyUckIY3I=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=exchangeadvisers.com; s=krs;
+ q=dns; h=X-Feedback-Id: Sender: Date: Message-Id: To: From: Subject:
+ Mime-Version: Content-Type;
+ b=2bZkEskYYmhTBpn1vIgJI6PpgIwNGC9DKRjA10z8YnUG6MT6tj5noFEGszZab7LRFt2s/A
+ nQxGnUz3fcW2ucxLromcsHx08ZO5ZCpURR2EbosdTQiDt0cWEN4lPlwNNI/uLqu7hPhou/j2
+ XRLZtMqLBIB6NtPSSgc1zvrkMBFP4=
+DKIM-Signature: a=rsa-sha256; v=1; c=relaxed/relaxed; d=mailgun.org;
+ q=dns/txt; s=mg; t=1454087881; h=Content-Type: Mime-Version: Subject: From:
+ To: Message-Id: Date: Sender: X-Feedback-Id;
+ bh=KCb/Mvz6hjnPXCMuHeEPzOBbkGO2Nh4aXH0GjBU7V+I=;
+ b=WfCbcnAh+kiQj6Dk37goTKzswvVCmuKqVMDPe7lj2wcgYDjRS0lpP4URHyPNiWJtl0N9G3ls
+ 7CFSrB8OUYWI6RkDfBMARxIFKBAqoire2o3MIx/1V5x+8wjOX1jx5wmHusoCLnvT86TGpX6g
+ XQWiGuFpo7Q5ZZZDs6SDnV5yrRw=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=mailgun.org; s=mg; q=dns;
+ h=X-Feedback-Id: Sender: Date: Message-Id: To: From: Subject: Mime-Version:
+ Content-Type;
+ b=BsOsSfmuiWW5MsdaitXkWf9myJjbdHqkm/hvmNZr4+3OlhdNVxoYaQLtaJauhJMZL4ZgZa
+ X3Jnb1cw0fQyRZ4HbsQz+NNC8BivSeEgT/LRbnbgF9nYHCZPoqbCg0sjrSdsS0hMQPbKHG4+
+ 0zLR359Sc+O/2y5ZWRzW1ryWs4YGI=
+X-Feedback-Id: 5633c6ad63badcb11bb4b426:mailgun
+Sender: kluna@exchangeadvisers.com
+Date: Fri, 29 Jan 2016 17:18:01 +0000
+X-Mailgun-Sid: WyI5OGQ5OCIsICJ0cmFsYWluZTIwMDdAZ21haWwuY29tIiwgIjdiM2UzIl0=
+Received: by luna.mailgun.net with HTTP; Fri, 29 Jan 2016 17:18:01 +0000
+Message-Id: <20160129171801.30742.34451@exchangeadvisers.com>
+To: Tralaine2007@gmail.com
+From: Katt Luna <kluna@exchangeadvisers.com>
+Subject: Health Insurance
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="eb4c3bbf6fcb46c0b34ca07e3085cffa"
+
+
+
+

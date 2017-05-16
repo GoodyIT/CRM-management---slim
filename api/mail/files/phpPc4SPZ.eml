@@ -1,0 +1,270 @@
+Received: from SN1PR0801MB1519.namprd08.prod.outlook.com (10.163.133.146) by
+ CY1PR0801MB1514.namprd08.prod.outlook.com (10.163.142.21) with Microsoft SMTP
+ Server (TLS) id 15.1.361.13 via Mailbox Transport; Tue, 5 Jan 2016 15:10:52
+ +0000
+Received: from BY2PR08CA056.namprd08.prod.outlook.com (10.141.248.174) by
+ SN1PR0801MB1519.namprd08.prod.outlook.com (10.163.133.146) with Microsoft
+ SMTP Server (TLS) id 15.1.361.13; Tue, 5 Jan 2016 15:10:50 +0000
+Received: from BN1AFFO11FD008.protection.gbl (2a01:111:f400:7c10::152) by
+ BY2PR08CA056.outlook.office365.com (2a01:111:e400:2c5c::46) with Microsoft
+ SMTP Server (TLS) id 15.1.361.13 via Frontend Transport; Tue, 5 Jan 2016
+ 15:10:50 +0000
+Received: from atl0lppp004.etdbw.com (167.79.177.16) by
+ BN1AFFO11FD008.mail.protection.outlook.com (10.58.52.68) with Microsoft SMTP
+ Server (TLS) id 15.1.355.15 via Frontend Transport; Tue, 5 Jan 2016 15:10:49
+ +0000
+Received: from pps.filterd (atl0lppp004.etdbw.com [127.0.0.1])
+	by atl0lppp004.etdbw.com (8.15.0.59/8.15.0.59) with SMTP id u05F7cn9014741
+	for <INFO@EBROKERCENTER.COM>; Tue, 5 Jan 2016 10:10:48 -0500
+Received: from msp0wpsbbat01 (wbyltm3-snat.etdbw.com [10.80.192.7])
+	by atl0lppp004.etdbw.com with ESMTP id 207yg1c3x3-1
+	for <INFO@EBROKERCENTER.COM>; Tue, 05 Jan 2016 10:10:48 -0500
+From: Assurant Health - MyBook <assurant_health_mybook@assurant.com>
+To: "info@ebrokercenter.com" <info@ebrokercenter.com>
+Subject: Assurant Health MyBook Alert Notification Summary
+Thread-Topic: Assurant Health MyBook Alert Notification Summary
+Thread-Index: AQHRR8tEFGUq2ajU0EKyG2U0JO0g0g==
+Date: Tue, 5 Jan 2016 15:10:48 +0000
+Message-ID: <22320615.2021.1452006648338.JavaMail.sbauto_prod@MSP0WPSBBAT01>
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Organization-AuthSource: BN1AFFO11FD008.protection.gbl
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-Network-Message-Id: 1e1c59fc-4cf6-4ed3-a090-08d315e2656d
+X-MS-TNEF-Correlator:
+received-spf: Pass (protection.outlook.com: domain of assurant.com designates
+ 167.79.177.16 as permitted sender) receiver=protection.outlook.com;
+ client-ip=167.79.177.16; helo=atl0lppp004.etdbw.com;
+Content-Type: multipart/mixed;
+	boundary="_004_2232061520211452006648338JavaMailsbautoprodMSP0WPSBBAT0_"
+MIME-Version: 1.0
+
+--_004_2232061520211452006648338JavaMailsbautoprodMSP0WPSBBAT0_
+Content-Type: multipart/alternative;
+	boundary="_000_2232061520211452006648338JavaMailsbautoprodMSP0WPSBBAT0_"
+
+--_000_2232061520211452006648338JavaMailsbautoprodMSP0WPSBBAT0_
+Content-Type: text/plain; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+You have a total of  15 new alerts waiting for you in MyBook.
+
+Alert Type      Individual      Group   Short Term      Student
+Renewal 0       0       0       0
+Late Payment    4       0       0       0
+Termination     11      0       0       0
+Rewrite 0       0       0       0
+
+The attached document provides additional information about key activities =
+on your in force business. The attachment is password protected. The passwo=
+rd is your 5-digit business zip code. If you need to verify your business z=
+ip code on file, click on the agent website link below and select Agent Pre=
+ferences.
+
+Be sure to check MyBook often to manage your in force business. Click on th=
+e link below to log into the agent website: www.assuranthealthsales.com<htt=
+p://www.assuranthealthsales.com>
+
+This is a system generated message. Please do not reply to this message.
+
+
+
+________________________________
+This e-mail message and all attachments transmitted with it may contain leg=
+ally privileged and/or confidential information intended solely for the use=
+ of the addressee(s). If the reader of this message is not the intended rec=
+ipient, you are hereby notified that any reading, dissemination, distributi=
+on, copying, forwarding or other use of this message or its attachments is =
+strictly prohibited. If you have received this message in error, please not=
+ify the sender immediately and delete this message and all copies and backu=
+ps thereof. Thank you.
+
+--_000_2232061520211452006648338JavaMailsbautoprodMSP0WPSBBAT0_
+Content-Type: text/html; charset="Windows-1252"
+Content-ID: <1D717D972BC08240B8CA550B76A8A9C5@namprd08.prod.outlook.com>
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DWindows-1=
+252">
+</head>
+<body>
+You have a total of&nbsp;&nbsp;<b>15 </b>new alerts waiting for you in MyBo=
+ok. <br>
+<br>
+<table width=3D"400" border=3D"0">
+<tbody>
+<tr>
+<th align=3D"left">Alert Type</th>
+<th align=3D"right">Individual</th>
+<th align=3D"right">Group</th>
+<th align=3D"right">Short Term</th>
+<th align=3D"right">Student</th>
+</tr>
+<tr>
+<td align=3D"left">Renewal</td>
+<td align=3D"center">0</td>
+<td align=3D"center">0</td>
+<td align=3D"center">0</td>
+<td align=3D"center">0</td>
+</tr>
+<tr>
+<td align=3D"left">Late Payment</td>
+<td align=3D"center">4</td>
+<td align=3D"center">0</td>
+<td align=3D"center">0</td>
+<td align=3D"center">0</td>
+</tr>
+<tr>
+<td align=3D"left">Termination</td>
+<td align=3D"center">11</td>
+<td align=3D"center">0</td>
+<td align=3D"center">0</td>
+<td align=3D"center">0</td>
+</tr>
+<tr>
+<td align=3D"left">Rewrite</td>
+<td align=3D"center">0</td>
+<td align=3D"center">0</td>
+<td align=3D"center">0</td>
+<td align=3D"center">0</td>
+</tr>
+</tbody>
+</table>
+<br>
+The attached document provides additional information about key activities =
+on your in force business. The attachment is password protected. The passwo=
+rd is your
+<b>5-digit business zip code.</b> If you need to verify your business zip c=
+ode on file, click on the agent website link below and select Agent Prefere=
+nces.<br>
+<br>
+Be sure to check MyBook often to manage your in force business. Click on th=
+e link below to log into the agent website:
+<a href=3D"http://www.assuranthealthsales.com">www.assuranthealthsales.com<=
+/a><br>
+<br>
+This is a system generated message. Please do not reply to this message.<br=
+>
+<br>
+<br>
+<br>
+<hr>
+This e-mail message and all attachments transmitted with it may contain leg=
+ally privileged and/or confidential information intended solely for the use=
+ of the addressee(s). If the reader of this message is not the intended rec=
+ipient, you are hereby notified
+ that any reading, dissemination, distribution, copying, forwarding or othe=
+r use of this message or its attachments is strictly prohibited. If you hav=
+e received this message in error, please notify the sender immediately and =
+delete this message and all copies
+ and backups thereof. Thank you.<br>
+</body>
+</html>
+
+--_000_2232061520211452006648338JavaMailsbautoprodMSP0WPSBBAT0_--
+
+--_004_2232061520211452006648338JavaMailsbautoprodMSP0WPSBBAT0_
+Content-Type: application/octet-stream; name="Encrypted 000C423X093001.pdf"
+Content-Description: Encrypted 000C423X093001.pdf
+Content-Disposition: attachment; filename="Encrypted 000C423X093001.pdf";
+	size=5223; creation-date="Tue, 05 Jan 2016 15:10:53 GMT";
+	modification-date="Tue, 05 Jan 2016 15:10:53 GMT"
+Content-ID: <636DB5F4E4252D4C88DE575115BB001D@namprd08.prod.outlook.com>
+Content-Transfer-Encoding: base64
+
+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
+QsEEqEiZxldC1lNeYicTmtwWk+mn35xN2e/qT+S5qMCx97ljOpL0Fs8lKm4BRQF/1ju+DOZGM58s
+miAgYPw+1umE6ccAOhvTvZycnVAIEUMbbMhc3IQ4sfC0GZbMsrxu5JonGljbrRf74oqms3YZZJQD
+yrxwFxybEwPyaUCtdj1FspXBky3Pg5SvyCKAAGlqHyRBA6yKopYoQAs9ouGO+4gqomjQwy/f2fnp
+I80YbUqxcRKqKSFbQzQVEBAhuEgb7sKD8lfjyPiAfBrswESyfje7HryVnYkvkrhW2y+VPvq7Z0AC
+PNI4hQi/sNiyXT3lpYzml9h5gxmbfA8LbKrx1u8/kjzG1WK+Mj8kWnHy1vGiDa+02JLhA7EkgVnz
+AofcyrOPk3JrLsu6mGLoTkRPOQFCdrOjqyJOt8bI2/8TOSAb7e7n5d5pz/rkMpYodJFRkc70e31o
+EU+8Kx7r71jlKnQ28ZtoIOt1IIzhOZeJO3qHBn0us/Wpq1qbos032Q9A3kZZLWhDZ2pG1px5klqh
+NcbKSNQ5wy3H1ZT9KLKMwFFJaPGtTfE/RVOXrCceB3YlFr3zv8OLBM9FUcT4Xvq7QZySzEZPvYMj
+D0lzYZW3loAm16WJwa1rD6e+5CYBRg2mzW/0Z7n5jFcY96MI+6QalUP7wjj64KjF9rSTuezEkoHK
+cgG+D6YTWdthcBYXP7Bzm3YuIKwmD7UNumV4fcm5L2+0I+Fu5Z5LBFcugYWNROQegsY5o7/VIhvy
+3V1SKfTZYHUfELNgcsxEmZ5KKkZXefxSsnlfCYkAR+jR59L6e2u9xJlHqtUqNFDmMpcKZW5kc3Ry
+ZWFtCmVuZG9iago1IDAgb2JqPDwvVHlwZS9QYWdlcy9Db3VudCAxL0tpZHNbNiAwIFJdPj4KZW5k
+b2JqCjYgMCBvYmo8PC9QYXJlbnQgNSAwIFIvVHlwZS9QYWdlL0NvbnRlbnRzIDQgMCBSL1Jlc291
+cmNlczw8L1Byb2NTZXRbL1BERi9UZXh0L0ltYWdlQi9JbWFnZUMvSW1hZ2VJXS9YT2JqZWN0PDwv
+aW1nMCAxIDAgUj4+L0ZvbnQ8PC9GMSAyIDAgUi9GMiAzIDAgUj4+Pj4vTWVkaWFCb3hbMCAwIDYx
+MiA3OTJdPj4KZW5kb2JqCjcgMCBvYmo8PC9UeXBlL0NhdGFsb2cvUGFnZXMgNSAwIFI+PgplbmRv
+YmoKOCAwIG9iajw8L1UgKFxm7NxKXGIWS5EvXGKvZSM6GyAAAAAAAAAAAAAAAAAAAAAAKS9MZW5n
+dGggMTI4L1YgMi9PICi7hVE7aqIO1yyw3L3cljwhNLND2FHGHAtcKERU5miypqgpL1AgLTM5MDAv
+RmlsdGVyL1N0YW5kYXJkL1IgMz4+CmVuZG9iago5IDAgb2JqPDwvUHJvZHVjZXIofF6QctKc2bTW
+kPrWtJ1aR5DU6kuXRHKpBHVxR7SfsKyYTm5+nOdkpd9IIa1ccvl+xNp6XCg5oykvTW9kRGF0ZShR
+MMc6l4rYq9OL+M+t3wsc2IWvXHSHEjopL0NyZWF0aW9uRGF0ZShRMMc6l4rYq9OL+M+t3wsc2IWv
+XHSHEjopPj4KZW5kb2JqCnhyZWYKMCAxMAowMDAwMDAwMDAwIDY1NTM1IGYgCjAwMDAwMDAwMTUg
+MDAwMDAgbiAKMDAwMDAwMjY0NiAwMDAwMCBuIAowMDAwMDAyNzM2IDAwMDAwIG4gCjAwMDAwMDI4
+MjMgMDAwMDAgbiAKMDAwMDAwNDI4NiAwMDAwMCBuIAowMDAwMDA0MzM2IDAwMDAwIG4gCjAwMDAw
+MDQ1MTkgMDAwMDAgbiAKMDAwMDAwNDU2MyAwMDAwMCBuIAowMDAwMDA0NzAzIDAwMDAwIG4gCnRy
+YWlsZXIKPDwvUm9vdCA3IDAgUi9JRCBbPDNmY2FiOTc1ZWUzZGU2YmVhOGM2MGNhY2NhNjAwNTE4
+Pjw2YWJmNjA4YjZmMzdiMWYzMmYwMDhkYTEwNWIwODE3Mz5dL0VuY3J5cHQgOCAwIFIvSW5mbyA5
+IDAgUi9TaXplIDEwPj4Kc3RhcnR4cmVmCjQ4NjEKJSVFT0YK
+
+--_004_2232061520211452006648338JavaMailsbautoprodMSP0WPSBBAT0_--

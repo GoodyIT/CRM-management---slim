@@ -1,0 +1,78 @@
+Received: from CY1PR08MB1738.namprd08.prod.outlook.com (10.162.217.156) by
+ BY2PR08MB1735.namprd08.prod.outlook.com (10.163.45.157) with Microsoft SMTP
+ Server (TLS) id 15.1.415.20 via Mailbox Transport; Tue, 1 Mar 2016 14:38:32
+ +0000
+Received: from DM2PR0801CA0038.namprd08.prod.outlook.com (10.162.18.48) by
+ CY1PR08MB1738.namprd08.prod.outlook.com (10.162.217.156) with Microsoft SMTP
+ Server (TLS) id 15.1.415.20; Tue, 1 Mar 2016 14:38:30 +0000
+Received: from BL2FFO11FD033.protection.gbl (2a01:111:f400:7c09::199) by
+ DM2PR0801CA0038.outlook.office365.com (2a01:111:e400:3c28::48) with Microsoft
+ SMTP Server (TLS) id 15.1.415.20 via Frontend Transport; Tue, 1 Mar 2016
+ 14:38:30 +0000
+Received: from cportal7.visa.com (198.241.168.128) by
+ BL2FFO11FD033.mail.protection.outlook.com (10.173.161.129) with Microsoft
+ SMTP Server (TLS) id 15.1.427.7 via Frontend Transport; Tue, 1 Mar 2016
+ 14:38:29 +0000
+From: Auto-Receipt <noreply@mail.authorize.net>
+To: David Jackson <djackson@ebrokercenter.com>
+Subject: ARB Subscription 27267544: Failed transaction
+Thread-Topic: ARB Subscription 27267544: Failed transaction
+Thread-Index: AQHRc8gH+Wx4uxap60uPEd5m6T6j3g==
+Date: Tue, 1 Mar 2016 14:38:28 +0000
+Message-ID: <d668a9$9elvtq@cportal7.visa.com>
+Reply-To: David Jackson <djackson@ebrokercenter.com>
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Organization-AuthSource: BL2FFO11FD033.protection.gbl
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-Network-Message-Id: 06783b4e-252a-4058-166f-08d341df283f
+X-MS-Exchange-Organization-SCL: 1
+X-MS-TNEF-Correlator:
+received-spf: Pass (protection.outlook.com: domain of mail.authorize.net
+ designates 198.241.168.128 as permitted sender)
+ receiver=protection.outlook.com; client-ip=198.241.168.128;
+ helo=cportal7.visa.com;
+Content-Type: text/plain; charset="us-ascii"
+Content-ID: <493385E6045F16489D28DB6E8A5457A9@namprd08.prod.outlook.com>
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+The current transaction for your ARB subscription 27267544 has failed. See =
+the TRANSACTION RESULTS section below for details.
+
+SECURITY STATEMENT
+It is not recommended that you ship product(s) or otherwise grant services =
+relying solely upon this e-mail receipt.
+
+GENERAL INFORMATION=20
+Merchant       : E BROKER CENTER INC
+
+RECURRING TRANSACTION INFORMATION=20
+Subscription ID: 27267544
+Status         : Active
+Transaction    : 2 of 96
+Invoice        : ZIJ20160201
+Amount         : 9.99 (USD)
+Payment Method : eCheck
+
+TRANSACTION RESULTS=20
+Response       : This transaction cannot be processed.
+Reason         : 128
+Transaction ID : 0
+
+CUSTOMER BILLING INFORMATION=20
+Customer ID    : 20160119114754-fsId
+First Name     : Deana
+Last Name      : Seller
+Company        :=20
+Address        :=20
+City           :=20
+State/Province :=20
+Zip/Postal Code:=20
+Country        :=20
+Phone          : (406) 665-1926
+Fax            :=20
+E-mail         : deanaseller59034@24hourmail.net
+
+
+

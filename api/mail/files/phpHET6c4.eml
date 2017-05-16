@@ -1,0 +1,57 @@
+Received: from BY2PR0801MB1511.namprd08.prod.outlook.com (10.163.156.21) by
+ CY1PR0801MB1514.namprd08.prod.outlook.com (10.163.142.21) with Microsoft SMTP
+ Server (TLS) id 15.1.415.20 via Mailbox Transport; Mon, 7 Mar 2016 00:09:05
+ +0000
+Received: from BL2PR08CA0043.namprd08.prod.outlook.com (10.255.170.161) by
+ BY2PR0801MB1511.namprd08.prod.outlook.com (10.163.156.21) with Microsoft SMTP
+ Server (TLS) id 15.1.415.20; Mon, 7 Mar 2016 00:09:04 +0000
+Received: from BN1AFFO11FD013.protection.gbl (2a01:111:f400:7c10::104) by
+ BL2PR08CA0043.outlook.office365.com (2a01:111:e400:c4b::33) with Microsoft
+ SMTP Server (TLS) id 15.1.427.16 via Frontend Transport; Mon, 7 Mar 2016
+ 00:09:04 +0000
+Received: from mail-p2.stripe.com (166.78.69.60) by
+ BN1AFFO11FD013.mail.protection.outlook.com (10.58.52.73) with Microsoft SMTP
+ Server (TLS) id 15.1.427.7 via Frontend Transport; Mon, 7 Mar 2016 00:09:03
+ +0000
+Received: by luna.mailgun.net with HTTP; Mon, 07 Mar 2016 00:09:03 +0000
+From: Stripe Disputes <support@stripe.com>
+To: "info@ebrokercenter.com" <info@ebrokercenter.com>
+Subject: A dispute on charge ch_17EMtuDchUejWJZTM4EWuNzV has been resolved in
+ your favor
+Thread-Topic: A dispute on charge ch_17EMtuDchUejWJZTM4EWuNzV has been
+ resolved in your favor
+Thread-Index: AQHReAWQKXpg+9rPnkGytA2K2XwgQA==
+Date: Mon, 7 Mar 2016 00:09:02 +0000
+Message-ID: <56dcc69eef4f0_90261193330218e2@hurricane6.northwest.stripe.io.mail>
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Organization-AuthSource: BN1AFFO11FD013.protection.gbl
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-Network-Message-Id: d4992f24-b64d-4695-698c-08d3461cb175
+X-MS-TNEF-Correlator:
+received-spf: Pass (protection.outlook.com: domain of stripe.com designates
+ 166.78.69.60 as permitted sender) receiver=protection.outlook.com;
+ client-ip=166.78.69.60; helo=mail-p2.stripe.com;
+Content-Type: text/plain; charset="utf-8"
+Content-ID: <473433E87308E94FB5F6A03D9315C60E@namprd08.prod.outlook.com>
+Content-Transfer-Encoding: base64
+MIME-Version: 1.0
+
+V2UgaGF2ZSBnb29kIG5ld3MgZm9yIHlvdSEgVGhlIGRpc3B1dGVkIHBheW1lbnQgZnJvbSBEZWNl
+bWJlciAwNCB3YXMgc3VjY2Vzc2Z1bGx5IHJlc29sdmVkIGluIHlvdXIgZmF2b3IgYnkgeW91ciBj
+dXN0b21lcidzIGJhbmsgb3IgY3JlZGl0IGNhcmQgY29tcGFueS4gVGhpcyBtZWFucyB0aGF0ICQy
+NC45OSBhbmQgdGhlIGRpc3B1dGUgZmVlIHdpbGwgYmUgcmV0dXJuZWQgdG8geW91ciBhY2NvdW50
+IGluIHRoZSBuZXh0IGZldyBkYXlzLiANCg0KWW91IGNhbiBzZWUgdGhpcyBpbiB5b3VyIGRhc2hi
+b2FyZCAob24gdGhlIHRyYW5zZmVycyBwYWdlKToNCg0KICAgIGh0dHBzOi8vZGFzaGJvYXJkLnN0
+cmlwZS5jb20vdHJhbnNmZXJzL292ZXJ2aWV3DQoNClRoZXJlJ3Mgbm8gZnVydGhlciBhY3Rpb24g
+cmVxdWlyZWQuIEhvd2V2ZXIsIGluIGNhc2UgaXQncyBoZWxwZnVsLCB5b3UgY2FuIGZpbmQgbW9y
+ZSBpbmZvcm1hdGlvbiBhYm91dCB0aGUgb3JpZ2luYWwgY2hhcmdlIHJpZ2h0IGZyb20geW91ciBk
+YXNoYm9hcmQ6DQoNCiAgICBodHRwczovL2Rhc2hib2FyZC5zdHJpcGUuY29tL3BheW1lbnRzL2No
+XzE3RU10dURjaFVlaldKWlRNNEVXdU56Vg0KDQpXZSdyZSBnbGFkIHRvIGhlYXIgdGhhdCB0aGlz
+IHdvcmtlZCBvdXQuIElmIHlvdSdyZSBldmVyIGN1cmlvdXMgZm9yIG1vcmUgaW5mb3JtYXRpb24g
+YWJvdXQgZGlzcHV0ZXMsIHlvdSBtaWdodCBmaW5kIG91ciBkZXRhaWxlZCBkb2N1bWVudGF0aW9u
+IHBhcnRpY3VsYXJseSBoZWxwZnVsOg0KDQogICAgaHR0cHM6Ly9zdHJpcGUuY29tL2hlbHAvZGlz
+cHV0ZXMNCg0KDQpXZSdsbCBiZSBoZXJlIHRvIGhlbHAgeW91IHdpdGggYW55IHN0ZXAgYWxvbmcg
+dGhlIHdheS4gWW91IGNhbiBmaW5kIGFuc3dlcnMgdG8gbW9zdCBxdWVzdGlvbnMgYW5kIGdldCBp
+biB0b3VjaCB3aXRoIHVzIGF0IGh0dHBzOi8vc3VwcG9ydC5zdHJpcGUuY29tLy4NCg0KWW91cnMs
+DQoNClRoZSBTdHJpcGUgVGVhbQ0K
